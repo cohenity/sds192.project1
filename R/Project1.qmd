@@ -1,0 +1,84 @@
+What factors affect emergency department capacity?
+
+Main variable: EDStations
+Variables being analyzed: PrimaryCareShortageArea, Visits_Per_Station, Tot_ED_NmbVsts, UrbanRuralDesi, HospitalOwnership, Year, County 
+
+Data Wrangling: 
+```{r}
+Urban_Shortage_Areas <- 
+  emergency_department_volume_and_capacity_2021_2023 |>
+  group_by(Visits_Per_Station, PrimaryCareShortageArea, EDStations, Tot_ED_NmbVsts, UrbanRuralDesi, HospitalOwnership, year, CountyName) |>
+  filter(PrimaryCareShortageArea == "Yes",
+         UrbanRuralDesi == "Urban") |>
+  summarise(avgTotEDVsts = mean(Tot_ED_NmbVsts),
+            avgEdStationVisits = mean(Visits_Per_Station)) |>
+  mutate(year = factor(year))
+```
+
+Data visualization: 
+
+```{r}
+ggplot(Urban_Shortage_Areas,
+       aes(x = EDStations,
+           y = avgEdStationVisits)) +
+  geom_col(width = .75) + 
+  theme_minimal() +
+  labs(title = "Number of Emergency Department Stations and Visits per Station in California Urban Primary Care Shortage Areas",
+       x = "Number of Emergency Department Stations",
+       y = "Average Visits Per Station",
+       caption = "This plot shows that hospitals with more emergency department stations tend to have a lower average number of
+       visits per station. This indicates that hospitals in urban areas with restricted access to primary care may be overcrowded, as
+       hospitals with low stations have a lower capacity to treat patients but they get a larger number of patients per station.") +
+  theme(plot.caption = element_text(size = 8))
+```
+
+```{r}
+ggplot(Urban_Shortage_Areas, aes(x = EDStations, 
+                                 y = avgTotEDVsts, 
+                                 color = HospitalOwnership)) + 
+  geom_point(alpha = 0.4, position = "jitter") + theme_minimal() +
+  labs(x = "Number of ED Stations", 
+       y = "Average Number of ED Visitors per Facility",
+       color = "Hospital Ownership",
+       title = "Average Emergency Department Visitors per Station in California Urban Areas with Restricted Access to 
+       Primary Care by Hospital Ownership",
+       caption = "This plot shows that nonprofit, government, and investor owned hospitals all have quantities of emergency
+       department stations that are relatively compatible with their number of visitors per facility. Investory owned hospitals
+       have the lowest capacity to accomodate large numbers of patients while nonprofit hospitals have the highest.") +
+  theme(plot.caption = element_text(size = 8))
+```
+
+```{r}
+  ggplot(Urban_Shortage_Areas, 
+        aes(x = EDStations,
+            y = Tot_ED_NmbVsts,
+            group = year, 
+            color = year)) + 
+  geom_boxplot() + theme_classic() + 
+  labs(x = "Emergency Department Stations", 
+       y = "Total Number of Emergency Department Visitors", 
+       color = "Year", 
+       title = "Emergency Departments in California Urban Areas with a Shortage of Primary Care: Total Emergency Department Visitors in Relation to Number of Stations by Year",
+       caption = "The plot shows the relationship between the number of ED station and the total number of ED visitors by year.
+       We can see that in 2021 there was the lowest number of ED visitors in relation to the number of stations. From this we can
+       infer that that urban hospitals in primary care shortage areas in 2021 had a higher capacity to treat patients. In 2023 ED
+       departments had the lowest capacity to treat patients because for the number of ED stations there was a comparatively higher
+       number of total visitors.") +
+theme(plot.caption = element_text(size = 8))
+```
+
+```{r}
+ggplot(Urban_Shortage_Areas, 
+       aes(x = CountyName,
+           y = avgEdStationVisits)) + 
+  geom_col() + 
+  labs(x = "County",
+       y = "Average Number of Emergency Department Station Visitors per Station", 
+       title = "Average Number of Emergency Department Visitors Per Station by County in California Urban Areas With Restricted Primary Care Access",
+       caption = "This plot shows that Los Angeles County has the highest number of ED visitors per station for urban hospitals in
+       restricted primary care access areas by a large margin. This tells us that Los Angeles County likely has extremely restricted
+       access to primary care, but also that it is likely the most populous area being evaluated by the data.") + 
+  theme(plot.caption = element_text(size = 8))
+```
+
+
