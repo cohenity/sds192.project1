@@ -1,5 +1,5 @@
-Main variable: EDStations
-Variables being analyzed: PrimaryCareShortageArea, Visits_Per_Station, Tot_ED_NmbVsts, UrbanRuralDesi, HospitalOwnership, Year, County 
+Main variable: EDStations, Tot_ED_NmbVsts
+Variables being analyzed: PrimaryCareShortageArea, Visits_Per_Station, UrbanRuralDesi, HospitalOwnership, Year, County 
 
 Data Wrangling: 
 ```{r}
