@@ -1,7 +1,7 @@
 What factors affect emergency department capacity?
 
 Main variable: EDStations
-Variables being analyzed: PrimaryCareShortageArea, Visits_Per_Station, Tot_ED_NmbVsts, UrbanRuralDesi, HospitalOwnership, Year, County, avgTotEDVsts, avgEdStationVisits 
+Variables being analyzed: PrimaryCareShortageArea, Visits_Per_Station, Tot_ED_NmbVsts, UrbanRuralDesi, HospitalOwnership, Year, County 
 
 Data Wrangling: 
 ```{r}
@@ -12,7 +12,8 @@ Urban_Shortage_Areas <-
          UrbanRuralDesi == "Urban") |>
   summarise(avgTotEDVsts = mean(Tot_ED_NmbVsts),
             avgEdStationVisits = mean(Visits_Per_Station)) |>
-  mutate(year = factor(year))
+  mutate(year = factor(year)) |>
+  na.omit(emergency_department_volume_and_capacity_2021_2023)
 ```
 
 Data visualization: 
