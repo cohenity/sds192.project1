@@ -1,7 +1,7 @@
 What factors affect emergency department capacity?
 
 Main variable: EDStations
-Variables being analyzed: PrimaryCareShortageArea, Visits_Per_Station, Tot_ED_NmbVsts, UrbanRuralDesi, HospitalOwnership, Year, County 
+Variables being analyzed: PrimaryCareShortageArea, Visits_Per_Station, Tot_ED_NmbVsts, UrbanRuralDesi, HospitalOwnership, Year, County, avgTotEDVsts, avgEdStationVisits 
 
 Data Wrangling: 
 ```{r}
