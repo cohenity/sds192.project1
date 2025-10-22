@@ -1,5 +1,3 @@
-What factors affect emergency department capacity?
-
 Main variable: EDStations
 Variables being analyzed: PrimaryCareShortageArea, Visits_Per_Station, Tot_ED_NmbVsts, UrbanRuralDesi, HospitalOwnership, Year, County 
 
@@ -78,7 +76,8 @@ ggplot(Urban_Shortage_Areas,
        title = "Average Number of Emergency Department Visitors Per Station by County in California Urban Areas With Restricted Primary Care Access",
        caption = "This plot shows that Los Angeles County has the highest number of ED visitors per station for urban hospitals in
        restricted primary care access areas by a large margin. This tells us that Los Angeles County likely has extremely restricted
-       access to primary care, but also that it is likely the most populous area being evaluated by the data.") + 
+       access to primary care, but also that it is likely the most populous area being evaluated by the data. Hospitals in more 
+       populous areas are more likely to have less access to primary care and a lower capacity to efficiently treat patients.") + 
   theme(plot.caption = element_text(size = 8))
 ```
 
