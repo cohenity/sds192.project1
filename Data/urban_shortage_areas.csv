@@ -1,0 +1,1693 @@
+"Visits_Per_Station","PrimaryCareShortageArea","EDStations","Tot_ED_NmbVsts","UrbanRuralDesi","HospitalOwnership","year","CountyName","avgTotEDVsts","avgEdStationVisits"
+0.0217391304347826,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,0.0217391304347826
+0.0277777777777778,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,0.0277777777777778
+0.0434782608695652,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,0.0434782608695652
+0.0555555555555556,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,0.0555555555555556
+0.0652173913043478,"Yes",46,72057,"Urban","Nonprofit","2023","Los Angeles",72057,0.0652173913043478
+0.130434782608696,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,0.130434782608696
+0.142857142857143,"Yes",7,6736,"Urban","Investor Owned","2023","Los Angeles",6736,0.142857142857143
+0.142857142857143,"Yes",7,6834,"Urban","Investor Owned","2021","Los Angeles",6834,0.142857142857143
+0.142857142857143,"Yes",7,6908,"Urban","Investor Owned","2022","Los Angeles",6908,0.142857142857143
+0.152173913043478,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,0.152173913043478
+0.152173913043478,"Yes",46,72057,"Urban","Nonprofit","2023","Los Angeles",72057,0.152173913043478
+0.166666666666667,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,0.166666666666667
+0.173913043478261,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,0.173913043478261
+0.194444444444444,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,0.194444444444444
+0.212765957446809,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,0.212765957446809
+0.238095238095238,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,0.238095238095238
+0.25,"Yes",4,3857,"Urban","Investor Owned","2022","Los Angeles",3857,0.25
+0.25,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,0.25
+0.263157894736842,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,0.263157894736842
+0.285714285714286,"Yes",7,6736,"Urban","Investor Owned","2023","Los Angeles",6736,0.285714285714286
+0.285714285714286,"Yes",7,6834,"Urban","Investor Owned","2021","Los Angeles",6834,0.285714285714286
+0.3,"Yes",10,11411,"Urban","Investor Owned","2022","Orange",11411,0.3
+0.315789473684211,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,0.315789473684211
+0.35,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,0.35
+0.365384615384615,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,0.365384615384615
+0.375,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,0.375
+0.379310344827586,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,0.379310344827586
+0.391304347826087,"Yes",46,72057,"Urban","Nonprofit","2023","Los Angeles",72057,0.391304347826087
+0.397260273972603,"Yes",73,83169,"Urban","Nonprofit","2023","Fresno",83169,0.397260273972603
+0.4,"Yes",10,11411,"Urban","Investor Owned","2022","Orange",11411,0.4
+0.425531914893617,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,0.425531914893617
+0.428571428571429,"Yes",7,6736,"Urban","Investor Owned","2023","Los Angeles",6736,0.428571428571429
+0.428571428571429,"Yes",7,6834,"Urban","Investor Owned","2021","Los Angeles",6834,0.428571428571429
+0.428571428571429,"Yes",7,6908,"Urban","Investor Owned","2022","Los Angeles",6908,0.428571428571429
+0.444444444444444,"Yes",9,7628,"Urban","Government","2021","Sonoma",7628,0.444444444444444
+0.45,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,0.45
+0.452054794520548,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,0.452054794520548
+0.465753424657534,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,0.465753424657534
+0.465753424657534,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,0.465753424657534
+0.473684210526316,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,0.473684210526316
+0.479452054794521,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,0.479452054794521
+0.5,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,0.5
+0.5,"Yes",4,3857,"Urban","Investor Owned","2022","Los Angeles",3857,0.5
+0.5,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,0.5
+0.5,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,0.5
+0.505882352941176,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,0.505882352941176
+0.520547945205479,"Yes",73,77616,"Urban","Government","2022","Los Angeles",77616,0.520547945205479
+0.522727272727273,"Yes",44,37922,"Urban","Government","2021","Orange",37922,0.522727272727273
+0.523809523809524,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,0.523809523809524
+0.534246575342466,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,0.534246575342466
+0.547945205479452,"Yes",73,83169,"Urban","Nonprofit","2023","Fresno",83169,0.547945205479452
+0.571428571428571,"Yes",7,6736,"Urban","Investor Owned","2023","Los Angeles",6736,0.571428571428571
+0.571428571428571,"Yes",7,6908,"Urban","Investor Owned","2022","Los Angeles",6908,0.571428571428571
+0.602739726027397,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,0.602739726027397
+0.611111111111111,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,0.611111111111111
+0.611111111111111,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,0.611111111111111
+0.625,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,0.625
+0.625,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,0.625
+0.63013698630137,"Yes",73,77616,"Urban","Government","2022","Los Angeles",77616,0.63013698630137
+0.65,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,0.65
+0.657534246575342,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,0.657534246575342
+0.657534246575342,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,0.657534246575342
+0.671875,"Yes",64,45465,"Urban","Government","2023","Orange",45465,0.671875
+0.67948717948718,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,0.67948717948718
+0.694444444444444,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,0.694444444444444
+0.714285714285714,"Yes",7,6736,"Urban","Investor Owned","2023","Los Angeles",6736,0.714285714285714
+0.714285714285714,"Yes",7,6834,"Urban","Investor Owned","2021","Los Angeles",6834,0.714285714285714
+0.714285714285714,"Yes",7,6908,"Urban","Investor Owned","2022","Los Angeles",6908,0.714285714285714
+0.71875,"Yes",64,45465,"Urban","Government","2023","Orange",45465,0.71875
+0.723404255319149,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,0.723404255319149
+0.731707317073171,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,0.731707317073171
+0.73972602739726,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,0.73972602739726
+0.743589743589744,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,0.743589743589744
+0.75,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,0.75
+0.75,"Yes",8,9319,"Urban","Investor Owned","2021","Los Angeles",9319,0.75
+0.75,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,0.75
+0.769230769230769,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,0.769230769230769
+0.772727272727273,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,0.772727272727273
+0.780487804878049,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,0.780487804878049
+0.808219178082192,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,0.808219178082192
+0.80952380952381,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,0.80952380952381
+0.824561403508772,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,0.824561403508772
+0.833333333333333,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,0.833333333333333
+0.840909090909091,"Yes",44,42673,"Urban","Government","2022","Orange",42673,0.840909090909091
+0.847058823529412,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,0.847058823529412
+0.85,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,0.85
+0.857142857142857,"Yes",7,6736,"Urban","Investor Owned","2023","Los Angeles",6736,0.857142857142857
+0.857142857142857,"Yes",7,6834,"Urban","Investor Owned","2021","Los Angeles",6834,0.857142857142857
+0.857142857142857,"Yes",7,6908,"Urban","Investor Owned","2022","Los Angeles",6908,0.857142857142857
+0.857142857142857,"Yes",35,62297,"Urban","Investor Owned","2022","Los Angeles",62297,0.857142857142857
+0.862068965517241,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,0.862068965517241
+0.875,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,0.875
+0.888888888888889,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,0.888888888888889
+0.9,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,0.9
+0.91304347826087,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,0.91304347826087
+0.928571428571429,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,0.928571428571429
+0.931818181818182,"Yes",44,37922,"Urban","Government","2021","Orange",37922,0.931818181818182
+0.94,"Yes",50,35849,"Urban","Investor Owned","2022","Los Angeles",35849,0.94
+0.944444444444444,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,0.944444444444444
+0.961538461538462,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,0.961538461538462
+0.975,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,0.975
+0.976190476190476,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,0.976190476190476
+0.977272727272727,"Yes",44,42673,"Urban","Government","2022","Orange",42673,0.977272727272727
+1,"Yes",4,3857,"Urban","Investor Owned","2022","Los Angeles",3857,1
+1,"Yes",8,8730,"Urban","Government","2022","Sonoma",8730,1
+1,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,1
+1,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,1
+1,"Yes",19,49779,"Urban","Government","2022","Monterey",49779,1
+1,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,1
+1,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,1
+1,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,1
+1,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,1
+1,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,1
+1,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,1
+1.02173913043478,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,1.02173913043478
+1.03225806451613,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,1.03225806451613
+1.04347826086957,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,1.04347826086957
+1.05,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,1.05
+1.05263157894737,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,1.05263157894737
+1.07017543859649,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,1.07017543859649
+1.0952380952381,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,1.0952380952381
+1.1,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,1.1
+1.1,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,1.1
+1.125,"Yes",8,8730,"Urban","Government","2022","Sonoma",8730,1.125
+1.125,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,1.125
+1.12765957446809,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,1.12765957446809
+1.13793103448276,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,1.13793103448276
+1.15,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,1.15
+1.15625,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,1.15625
+1.16666666666667,"Yes",12,13544,"Urban","Investor Owned","2021","Riverside",13544,1.16666666666667
+1.18,"Yes",50,35849,"Urban","Investor Owned","2022","Los Angeles",35849,1.18
+1.1875,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,1.1875
+1.19047619047619,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,1.19047619047619
+1.2,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,1.2
+1.2,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,1.2
+1.21428571428571,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,1.21428571428571
+1.21951219512195,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,1.21951219512195
+1.22222222222222,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,1.22222222222222
+1.23076923076923,"Yes",26,37061,"Urban","Government","2021","San Joaquin",37061,1.23076923076923
+1.234375,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,1.234375
+1.23529411764706,"Yes",51,33915,"Urban","Investor Owned","2021","Los Angeles",33915,1.23529411764706
+1.24137931034483,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,1.24137931034483
+1.25,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,1.25
+1.25,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,1.25
+1.25,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,1.25
+1.25714285714286,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,1.25714285714286
+1.26190476190476,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,1.26190476190476
+1.26315789473684,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,1.26315789473684
+1.27450980392157,"Yes",51,33915,"Urban","Investor Owned","2021","Los Angeles",33915,1.27450980392157
+1.27586206896552,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,1.27586206896552
+1.28,"Yes",50,35849,"Urban","Investor Owned","2022","Los Angeles",35849,1.28
+1.28571428571429,"Yes",7,6908,"Urban","Investor Owned","2022","Los Angeles",6908,1.28571428571429
+1.28571428571429,"Yes",35,62297,"Urban","Investor Owned","2022","Los Angeles",62297,1.28571428571429
+1.3,"Yes",10,11411,"Urban","Investor Owned","2022","Orange",11411,1.3
+1.3125,"Yes",16,54470,"Urban","Government","2023","Monterey",54470,1.3125
+1.31707317073171,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,1.31707317073171
+1.31818181818182,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,1.31818181818182
+1.33333333333333,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,1.33333333333333
+1.34146341463415,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,1.34146341463415
+1.34285714285714,"Yes",35,62297,"Urban","Investor Owned","2022","Los Angeles",62297,1.34285714285714
+1.34375,"Yes",64,45465,"Urban","Government","2023","Orange",45465,1.34375
+1.36170212765957,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,1.36170212765957
+1.37142857142857,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,1.37142857142857
+1.375,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,1.375
+1.375,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,1.375
+1.37931034482759,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,1.37931034482759
+1.38636363636364,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,1.38636363636364
+1.4,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,1.4
+1.41379310344828,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,1.41379310344828
+1.41379310344828,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,1.41379310344828
+1.41666666666667,"Yes",12,15525,"Urban","Investor Owned","2022","Riverside",15525,1.41666666666667
+1.44444444444444,"Yes",9,7628,"Urban","Government","2021","Sonoma",7628,1.44444444444444
+1.45,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,1.45
+1.45714285714286,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,1.45714285714286
+1.45714285714286,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,1.45714285714286
+1.46875,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,1.46875
+1.47619047619048,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,1.47619047619048
+1.48275862068966,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,1.48275862068966
+1.48780487804878,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,1.48780487804878
+1.5,"Yes",8,9319,"Urban","Investor Owned","2021","Los Angeles",9319,1.5
+1.5,"Yes",12,16133,"Urban","Investor Owned","2023","Riverside",16133,1.5
+1.5,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,1.5
+1.5,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,1.5
+1.5,"Yes",44,37922,"Urban","Government","2021","Orange",37922,1.5
+1.5,"Yes",46,72057,"Urban","Nonprofit","2023","Los Angeles",72057,1.5
+1.54347826086957,"Yes",46,72057,"Urban","Nonprofit","2023","Los Angeles",72057,1.54347826086957
+1.54901960784314,"Yes",51,33915,"Urban","Investor Owned","2021","Los Angeles",33915,1.54901960784314
+1.5625,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,1.5625
+1.5625,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,1.5625
+1.57142857142857,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,1.57142857142857
+1.57142857142857,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,1.57142857142857
+1.57894736842105,"Yes",19,49779,"Urban","Government","2022","Monterey",49779,1.57894736842105
+1.58823529411765,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,1.58823529411765
+1.609375,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,1.609375
+1.625,"Yes",8,9319,"Urban","Investor Owned","2021","Los Angeles",9319,1.625
+1.62745098039216,"Yes",51,33915,"Urban","Investor Owned","2021","Los Angeles",33915,1.62745098039216
+1.65,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,1.65
+1.65753424657534,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,1.65753424657534
+1.66666666666667,"Yes",9,7628,"Urban","Government","2021","Sonoma",7628,1.66666666666667
+1.66666666666667,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,1.66666666666667
+1.6875,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,1.6875
+1.7,"Yes",10,11411,"Urban","Investor Owned","2022","Orange",11411,1.7
+1.7,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,1.7
+1.703125,"Yes",64,45465,"Urban","Government","2023","Orange",45465,1.703125
+1.70454545454545,"Yes",44,42673,"Urban","Government","2022","Orange",42673,1.70454545454545
+1.71428571428571,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,1.71428571428571
+1.71794871794872,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,1.71794871794872
+1.71875,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,1.71875
+1.75,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,1.75
+1.75,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,1.75
+1.75,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,1.75
+1.76086956521739,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,1.76086956521739
+1.76190476190476,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,1.76190476190476
+1.77173913043478,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,1.77173913043478
+1.79310344827586,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,1.79310344827586
+1.8,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,1.8
+1.8,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,1.8
+1.82,"Yes",50,35849,"Urban","Investor Owned","2022","Los Angeles",35849,1.82
+1.82758620689655,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,1.82758620689655
+1.83333333333333,"Yes",12,13544,"Urban","Investor Owned","2021","Riverside",13544,1.83333333333333
+1.83333333333333,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,1.83333333333333
+1.83561643835616,"Yes",73,77616,"Urban","Government","2022","Los Angeles",77616,1.83561643835616
+1.84615384615385,"Yes",26,37061,"Urban","Government","2021","San Joaquin",37061,1.84615384615385
+1.84782608695652,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,1.84782608695652
+1.85714285714286,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,1.85714285714286
+1.875,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,1.875
+1.875,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,1.875
+1.875,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,1.875
+1.875,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,1.875
+1.88709677419355,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,1.88709677419355
+1.89041095890411,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,1.89041095890411
+1.890625,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,1.890625
+1.9,"Yes",10,11411,"Urban","Investor Owned","2022","Orange",11411,1.9
+1.9,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,1.9
+1.92307692307692,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,1.92307692307692
+1.92391304347826,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,1.92391304347826
+1.96153846153846,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,1.96153846153846
+1.98611111111111,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,1.98611111111111
+2,"Yes",12,13544,"Urban","Investor Owned","2021","Riverside",13544,2
+2,"Yes",16,54470,"Urban","Government","2023","Monterey",54470,2
+2,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,2
+2,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,2
+2.05882352941176,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,2.05882352941176
+2.06521739130435,"Yes",46,72057,"Urban","Nonprofit","2023","Los Angeles",72057,2.06521739130435
+2.08219178082192,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,2.08219178082192
+2.08219178082192,"Yes",73,83169,"Urban","Nonprofit","2023","Fresno",83169,2.08219178082192
+2.08333333333333,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,2.08333333333333
+2.1,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,2.1
+2.1,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,2.1
+2.10344827586207,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,2.10344827586207
+2.11111111111111,"Yes",9,7628,"Urban","Government","2021","Sonoma",7628,2.11111111111111
+2.125,"Yes",8,9319,"Urban","Investor Owned","2021","Los Angeles",9319,2.125
+2.16666666666667,"Yes",12,15525,"Urban","Investor Owned","2022","Riverside",15525,2.16666666666667
+2.16666666666667,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,2.16666666666667
+2.16666666666667,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,2.16666666666667
+2.18181818181818,"Yes",44,42673,"Urban","Government","2022","Orange",42673,2.18181818181818
+2.1875,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,2.1875
+2.19444444444444,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,2.19444444444444
+2.2,"Yes",10,11411,"Urban","Investor Owned","2022","Orange",11411,2.2
+2.21052631578947,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,2.21052631578947
+2.25,"Yes",12,15525,"Urban","Investor Owned","2022","Riverside",15525,2.25
+2.25,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,2.25
+2.26923076923077,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,2.26923076923077
+2.27586206896552,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,2.27586206896552
+2.3,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,2.3
+2.30555555555556,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,2.30555555555556
+2.31034482758621,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,2.31034482758621
+2.31764705882353,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,2.31764705882353
+2.328125,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,2.328125
+2.33333333333333,"Yes",12,16133,"Urban","Investor Owned","2023","Riverside",16133,2.33333333333333
+2.375,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,2.375
+2.375,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,2.375
+2.37931034482759,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,2.37931034482759
+2.38,"Yes",50,35849,"Urban","Investor Owned","2022","Los Angeles",35849,2.38
+2.38095238095238,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,2.38095238095238
+2.41666666666667,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,2.41666666666667
+2.43137254901961,"Yes",51,33915,"Urban","Investor Owned","2021","Los Angeles",33915,2.43137254901961
+2.43181818181818,"Yes",44,37922,"Urban","Government","2021","Orange",37922,2.43181818181818
+2.4375,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,2.4375
+2.44444444444444,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,2.44444444444444
+2.44444444444444,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,2.44444444444444
+2.46341463414634,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,2.46341463414634
+2.5,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,2.5
+2.5,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,2.5
+2.5,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,2.5
+2.5,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,2.5
+2.5,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,2.5
+2.5,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,2.5
+2.52,"Yes",50,35849,"Urban","Investor Owned","2022","Los Angeles",35849,2.52
+2.52631578947368,"Yes",19,49779,"Urban","Government","2022","Monterey",49779,2.52631578947368
+2.53846153846154,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,2.53846153846154
+2.54166666666667,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,2.54166666666667
+2.58064516129032,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,2.58064516129032
+2.6,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,2.6
+2.625,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,2.625
+2.625,"Yes",8,9319,"Urban","Investor Owned","2021","Los Angeles",9319,2.625
+2.6551724137931,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,2.6551724137931
+2.66666666666667,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,2.66666666666667
+2.68181818181818,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,2.68181818181818
+2.70588235294118,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,2.70588235294118
+2.70833333333333,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,2.70833333333333
+2.74193548387097,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,2.74193548387097
+2.75,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,2.75
+2.75,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,2.75
+2.75862068965517,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,2.75862068965517
+2.77272727272727,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,2.77272727272727
+2.78947368421053,"Yes",19,49779,"Urban","Government","2022","Monterey",49779,2.78947368421053
+2.8,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,2.8
+2.83333333333333,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,2.83333333333333
+2.83333333333333,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,2.83333333333333
+2.84615384615385,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,2.84615384615385
+2.9,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,2.9
+2.9047619047619,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,2.9047619047619
+2.91666666666667,"Yes",12,16133,"Urban","Investor Owned","2023","Riverside",16133,2.91666666666667
+2.91666666666667,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,2.91666666666667
+2.92857142857143,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,2.92857142857143
+2.93181818181818,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,2.93181818181818
+2.94736842105263,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,2.94736842105263
+2.95,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,2.95
+2.96153846153846,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,2.96153846153846
+2.975,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,2.975
+2.97560975609756,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,2.97560975609756
+3,"Yes",4,3857,"Urban","Investor Owned","2022","Los Angeles",3857,3
+3,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,3
+3,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,3
+3,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,3
+3,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,3
+3.02272727272727,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,3.02272727272727
+3.03125,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,3.03125
+3.03448275862069,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,3.03448275862069
+3.03921568627451,"Yes",51,33915,"Urban","Investor Owned","2021","Los Angeles",33915,3.03921568627451
+3.06896551724138,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,3.06896551724138
+3.06896551724138,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,3.06896551724138
+3.09375,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,3.09375
+3.0952380952381,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,3.0952380952381
+3.11538461538462,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,3.11538461538462
+3.14516129032258,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,3.14516129032258
+3.15625,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,3.15625
+3.16666666666667,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,3.16666666666667
+3.171875,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,3.171875
+3.17241379310345,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,3.17241379310345
+3.17241379310345,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,3.17241379310345
+3.17391304347826,"Yes",46,72057,"Urban","Nonprofit","2023","Los Angeles",72057,3.17391304347826
+3.18181818181818,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,3.18181818181818
+3.19230769230769,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,3.19230769230769
+3.2,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,3.2
+3.25,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,3.25
+3.27272727272727,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,3.27272727272727
+3.30555555555556,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,3.30555555555556
+3.30769230769231,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,3.30769230769231
+3.33333333333333,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,3.33333333333333
+3.3448275862069,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,3.3448275862069
+3.34615384615385,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,3.34615384615385
+3.35,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,3.35
+3.36842105263158,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,3.36842105263158
+3.375,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,3.375
+3.38095238095238,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,3.38095238095238
+3.41666666666667,"Yes",12,13544,"Urban","Investor Owned","2021","Riverside",13544,3.41666666666667
+3.41666666666667,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,3.41666666666667
+3.41666666666667,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,3.41666666666667
+3.41666666666667,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,3.41666666666667
+3.41666666666667,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,3.41666666666667
+3.45,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,3.45
+3.45,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,3.45
+3.47619047619048,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,3.47619047619048
+3.5,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,3.5
+3.5,"Yes",8,8730,"Urban","Government","2022","Sonoma",8730,3.5
+3.5,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,3.5
+3.5,"Yes",46,72057,"Urban","Nonprofit","2023","Los Angeles",72057,3.5
+3.51724137931034,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,3.51724137931034
+3.53846153846154,"Yes",26,37061,"Urban","Government","2021","San Joaquin",37061,3.53846153846154
+3.54166666666667,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,3.54166666666667
+3.55555555555556,"Yes",9,7628,"Urban","Government","2021","Sonoma",7628,3.55555555555556
+3.55555555555556,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,3.55555555555556
+3.5625,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,3.5625
+3.57692307692308,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,3.57692307692308
+3.58333333333333,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,3.58333333333333
+3.59375,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,3.59375
+3.6,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,3.6
+3.65,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,3.65
+3.66666666666667,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,3.66666666666667
+3.66666666666667,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,3.66666666666667
+3.66666666666667,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,3.66666666666667
+3.66666666666667,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,3.66666666666667
+3.70175438596491,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,3.70175438596491
+3.72222222222222,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,3.72222222222222
+3.75,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,3.75
+3.76190476190476,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,3.76190476190476
+3.7741935483871,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,3.7741935483871
+3.8,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,3.8
+3.83333333333333,"Yes",12,16133,"Urban","Investor Owned","2023","Riverside",16133,3.83333333333333
+3.83333333333333,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,3.83333333333333
+3.83333333333333,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,3.83333333333333
+3.875,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,3.875
+3.9041095890411,"Yes",73,83169,"Urban","Nonprofit","2023","Fresno",83169,3.9041095890411
+3.95890410958904,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,3.95890410958904
+4,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,4
+4,"Yes",7,6834,"Urban","Investor Owned","2021","Los Angeles",6834,4
+4,"Yes",16,54470,"Urban","Government","2023","Monterey",54470,4
+4.04255319148936,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,4.04255319148936
+4.1,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,4.1
+4.125,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,4.125
+4.13698630136986,"Yes",73,77616,"Urban","Government","2022","Los Angeles",77616,4.13698630136986
+4.15384615384615,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,4.15384615384615
+4.16666666666667,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,4.16666666666667
+4.1875,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,4.1875
+4.2,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,4.2
+4.20833333333333,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,4.20833333333333
+4.22727272727273,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,4.22727272727273
+4.25,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,4.25
+4.29166666666667,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,4.29166666666667
+4.3,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,4.3
+4.33333333333333,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,4.33333333333333
+4.34615384615385,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,4.34615384615385
+4.375,"Yes",16,54470,"Urban","Government","2023","Monterey",54470,4.375
+4.38235294117647,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,4.38235294117647
+4.38356164383562,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,4.38356164383562
+4.41666666666667,"Yes",12,15525,"Urban","Investor Owned","2022","Riverside",15525,4.41666666666667
+4.45614035087719,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,4.45614035087719
+4.45714285714286,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,4.45714285714286
+4.5,"Yes",4,3857,"Urban","Investor Owned","2022","Los Angeles",3857,4.5
+4.5,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,4.5
+4.5,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,4.5
+4.5,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,4.5
+4.5,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,4.5
+4.52631578947368,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,4.52631578947368
+4.54166666666667,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,4.54166666666667
+4.56164383561644,"Yes",73,83169,"Urban","Nonprofit","2023","Fresno",83169,4.56164383561644
+4.56521739130435,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,4.56521739130435
+4.57894736842105,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,4.57894736842105
+4.625,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,4.625
+4.625,"Yes",8,9319,"Urban","Investor Owned","2021","Los Angeles",9319,4.625
+4.65217391304348,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,4.65217391304348
+4.7,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,4.7
+4.70833333333333,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,4.70833333333333
+4.72602739726027,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,4.72602739726027
+4.77777777777778,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,4.77777777777778
+4.8,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,4.8
+4.85714285714286,"Yes",7,6736,"Urban","Investor Owned","2023","Los Angeles",6736,4.85714285714286
+4.92982456140351,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,4.92982456140351
+4.9375,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,4.9375
+4.94520547945205,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,4.94520547945205
+4.94520547945205,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,4.94520547945205
+5,"Yes",7,6736,"Urban","Investor Owned","2023","Los Angeles",6736,5
+5,"Yes",7,6908,"Urban","Investor Owned","2022","Los Angeles",6908,5
+5,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,5
+5,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,5
+5,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,5
+5.03260869565217,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,5.03260869565217
+5.05555555555556,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,5.05555555555556
+5.0625,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,5.0625
+5.0625,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,5.0625
+5.08823529411765,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,5.08823529411765
+5.14285714285714,"Yes",7,6834,"Urban","Investor Owned","2021","Los Angeles",6834,5.14285714285714
+5.17808219178082,"Yes",73,77616,"Urban","Government","2022","Los Angeles",77616,5.17808219178082
+5.18823529411765,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,5.18823529411765
+5.20967741935484,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,5.20967741935484
+5.22222222222222,"Yes",9,7628,"Urban","Government","2021","Sonoma",7628,5.22222222222222
+5.25,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,5.25
+5.25,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,5.25
+5.265625,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,5.265625
+5.31818181818182,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,5.31818181818182
+5.33333333333333,"Yes",9,7628,"Urban","Government","2021","Sonoma",7628,5.33333333333333
+5.4,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,5.4
+5.41666666666667,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,5.41666666666667
+5.44,"Yes",50,35849,"Urban","Investor Owned","2022","Los Angeles",35849,5.44
+5.47619047619048,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,5.47619047619048
+5.5,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,5.5
+5.5,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,5.5
+5.50877192982456,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,5.50877192982456
+5.57142857142857,"Yes",7,6908,"Urban","Investor Owned","2022","Los Angeles",6908,5.57142857142857
+5.58333333333333,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,5.58333333333333
+5.71875,"Yes",64,45465,"Urban","Government","2023","Orange",45465,5.71875
+5.75,"Yes",8,8730,"Urban","Government","2022","Sonoma",8730,5.75
+5.75,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,5.75
+5.75,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,5.75
+5.75342465753425,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,5.75342465753425
+5.85964912280702,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,5.85964912280702
+5.86111111111111,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,5.86111111111111
+5.9,"Yes",10,11411,"Urban","Investor Owned","2022","Orange",11411,5.9
+5.9,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,5.9
+5.91666666666667,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,5.91666666666667
+6,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,6
+6.08333333333333,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,6.08333333333333
+6.08333333333333,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,6.08333333333333
+6.08571428571429,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,6.08571428571429
+6.16666666666667,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,6.16666666666667
+6.19230769230769,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,6.19230769230769
+6.2,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,6.2
+6.25,"Yes",8,8730,"Urban","Government","2022","Sonoma",8730,6.25
+6.25,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,6.25
+6.25,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,6.25
+6.33333333333333,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,6.33333333333333
+6.35087719298246,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,6.35087719298246
+6.35294117647059,"Yes",51,33915,"Urban","Investor Owned","2021","Los Angeles",33915,6.35294117647059
+6.453125,"Yes",64,45465,"Urban","Government","2023","Orange",45465,6.453125
+6.5,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,6.5
+6.5,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,6.5
+6.51063829787234,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,6.51063829787234
+6.6,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,6.6
+6.64285714285714,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,6.64285714285714
+6.70512820512821,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,6.70512820512821
+6.75,"Yes",12,16133,"Urban","Investor Owned","2023","Riverside",16133,6.75
+6.75,"Yes",44,42673,"Urban","Government","2022","Orange",42673,6.75
+6.83333333333333,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,6.83333333333333
+6.83333333333333,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,6.83333333333333
+6.84210526315789,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,6.84210526315789
+6.875,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,6.875
+6.9041095890411,"Yes",73,83169,"Urban","Nonprofit","2023","Fresno",83169,6.9041095890411
+6.93150684931507,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,6.93150684931507
+7.05128205128205,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,7.05128205128205
+7.09090909090909,"Yes",44,37922,"Urban","Government","2021","Orange",37922,7.09090909090909
+7.125,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,7.125
+7.13636363636364,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,7.13636363636364
+7.15384615384615,"Yes",26,37061,"Urban","Government","2021","San Joaquin",37061,7.15384615384615
+7.22222222222222,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,7.22222222222222
+7.23913043478261,"Yes",46,72057,"Urban","Nonprofit","2023","Los Angeles",72057,7.23913043478261
+7.25,"Yes",8,8730,"Urban","Government","2022","Sonoma",8730,7.25
+7.25,"Yes",12,13544,"Urban","Investor Owned","2021","Riverside",13544,7.25
+7.265625,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,7.265625
+7.4,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,7.4
+7.4,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,7.4
+7.40909090909091,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,7.40909090909091
+7.5,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,7.5
+7.5,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,7.5
+7.5,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,7.5
+7.52272727272727,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,7.52272727272727
+7.55555555555556,"Yes",9,7628,"Urban","Government","2021","Sonoma",7628,7.55555555555556
+7.57142857142857,"Yes",7,6834,"Urban","Investor Owned","2021","Los Angeles",6834,7.57142857142857
+7.57446808510638,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,7.57446808510638
+7.58333333333333,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,7.58333333333333
+7.6,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,7.6
+7.7,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,7.7
+7.75,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,7.75
+7.8,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,7.8
+7.98076923076923,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,7.98076923076923
+8.02380952380952,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,8.02380952380952
+8.13333333333333,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,8.13333333333333
+8.16666666666667,"Yes",12,16133,"Urban","Investor Owned","2023","Riverside",16133,8.16666666666667
+8.16666666666667,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,8.16666666666667
+8.22857142857143,"Yes",35,62297,"Urban","Investor Owned","2022","Los Angeles",62297,8.22857142857143
+8.27777777777778,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,8.27777777777778
+8.3,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,8.3
+8.3013698630137,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,8.3013698630137
+8.3972602739726,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,8.3972602739726
+8.4,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,8.4
+8.54285714285714,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,8.54285714285714
+8.64383561643836,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,8.64383561643836
+8.65909090909091,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,8.65909090909091
+8.87671232876712,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,8.87671232876712
+8.88888888888889,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,8.88888888888889
+8.890625,"Yes",64,45465,"Urban","Government","2023","Orange",45465,8.890625
+8.9,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,8.9
+8.91666666666667,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,8.91666666666667
+9,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,9
+9,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,9
+9.06896551724138,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,9.06896551724138
+9.1025641025641,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,9.1025641025641
+9.125,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,9.125
+9.14035087719298,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,9.14035087719298
+9.2,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,9.2
+9.2,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,9.2
+9.25,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,9.25
+9.4,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,9.4
+9.42105263157895,"Yes",19,49779,"Urban","Government","2022","Monterey",49779,9.42105263157895
+9.5,"Yes",8,8730,"Urban","Government","2022","Sonoma",8730,9.5
+9.5,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,9.5
+9.5,"Yes",12,13544,"Urban","Investor Owned","2021","Riverside",13544,9.5
+9.55555555555556,"Yes",9,7628,"Urban","Government","2021","Sonoma",7628,9.55555555555556
+9.578125,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,9.578125
+9.6140350877193,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,9.6140350877193
+9.66666666666667,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,9.66666666666667
+9.73684210526316,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,9.73684210526316
+9.75,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,9.75
+9.75,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,9.75
+9.79166666666667,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,9.79166666666667
+9.79452054794521,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,9.79452054794521
+9.80645161290323,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,9.80645161290323
+9.89655172413793,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,9.89655172413793
+10.063829787234,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,10.063829787234
+10.1,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,10.1
+10.1176470588235,"Yes",51,33915,"Urban","Investor Owned","2021","Los Angeles",33915,10.1176470588235
+10.1521739130435,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,10.1521739130435
+10.2096774193548,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,10.2096774193548
+10.25,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,10.25
+10.4,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,10.4
+10.4383561643836,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,10.4383561643836
+10.452380952381,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,10.452380952381
+10.5,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,10.5
+10.54,"Yes",50,35849,"Urban","Investor Owned","2022","Los Angeles",35849,10.54
+10.554347826087,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,10.554347826087
+10.5588235294118,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,10.5588235294118
+10.6666666666667,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,10.6666666666667
+10.6666666666667,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,10.6666666666667
+10.675,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,10.675
+10.75,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,10.75
+10.7931034482759,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,10.7931034482759
+10.8478260869565,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,10.8478260869565
+10.8571428571429,"Yes",7,6736,"Urban","Investor Owned","2023","Los Angeles",6736,10.8571428571429
+10.890625,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,10.890625
+10.9,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,10.9
+11.0384615384615,"Yes",26,37061,"Urban","Government","2021","San Joaquin",37061,11.0384615384615
+11.0487804878049,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,11.0487804878049
+11.0555555555556,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,11.0555555555556
+11.25,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,11.25
+11.25,"Yes",44,42673,"Urban","Government","2022","Orange",42673,11.25
+11.2765957446809,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,11.2765957446809
+11.2826086956522,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,11.2826086956522
+11.3478260869565,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,11.3478260869565
+11.3809523809524,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,11.3809523809524
+11.4,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,11.4
+11.4047619047619,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,11.4047619047619
+11.4166666666667,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,11.4166666666667
+11.4571428571429,"Yes",35,62297,"Urban","Investor Owned","2022","Los Angeles",62297,11.4571428571429
+11.5,"Yes",12,13544,"Urban","Investor Owned","2021","Riverside",13544,11.5
+11.5869565217391,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,11.5869565217391
+11.6235294117647,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,11.6235294117647
+11.6986301369863,"Yes",73,83169,"Urban","Nonprofit","2023","Fresno",83169,11.6986301369863
+11.7529411764706,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,11.7529411764706
+11.9122807017544,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,11.9122807017544
+11.9512195121951,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,11.9512195121951
+12.0243902439024,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,12.0243902439024
+12.0384615384615,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,12.0384615384615
+12.0769230769231,"Yes",26,37061,"Urban","Government","2021","San Joaquin",37061,12.0769230769231
+12.1025641025641,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,12.1025641025641
+12.1111111111111,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,12.1111111111111
+12.1232876712329,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,12.1232876712329
+12.1413043478261,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,12.1413043478261
+12.25,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,12.25
+12.25,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,12.25
+12.275,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,12.275
+12.3478260869565,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,12.3478260869565
+12.3809523809524,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,12.3809523809524
+12.421875,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,12.421875
+12.4375,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,12.4375
+12.452380952381,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,12.452380952381
+12.5121951219512,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,12.5121951219512
+12.6,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,12.6
+12.640625,"Yes",64,45465,"Urban","Government","2023","Orange",45465,12.640625
+12.6538461538462,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,12.6538461538462
+12.6666666666667,"Yes",12,16133,"Urban","Investor Owned","2023","Riverside",16133,12.6666666666667
+12.6666666666667,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,12.6666666666667
+12.6818181818182,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,12.6818181818182
+12.6986301369863,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,12.6986301369863
+12.7,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,12.7
+12.7045454545455,"Yes",44,37922,"Urban","Government","2021","Orange",37922,12.7045454545455
+12.7450980392157,"Yes",51,33915,"Urban","Investor Owned","2021","Los Angeles",33915,12.7450980392157
+12.7717391304348,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,12.7717391304348
+12.7777777777778,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,12.7777777777778
+12.8275862068966,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,12.8275862068966
+12.875,"Yes",8,8730,"Urban","Government","2022","Sonoma",8730,12.875
+12.8888888888889,"Yes",9,7628,"Urban","Government","2021","Sonoma",7628,12.8888888888889
+12.9,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,12.9
+12.9166666666667,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,12.9166666666667
+12.9310344827586,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,12.9310344827586
+13,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,13
+13.0322580645161,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,13.0322580645161
+13.0689655172414,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,13.0689655172414
+13.125,"Yes",8,9319,"Urban","Investor Owned","2021","Los Angeles",9319,13.125
+13.1923076923077,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,13.1923076923077
+13.25,"Yes",8,9319,"Urban","Investor Owned","2021","Los Angeles",9319,13.25
+13.2631578947368,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,13.2631578947368
+13.2777777777778,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,13.2777777777778
+13.328125,"Yes",64,45465,"Urban","Government","2023","Orange",45465,13.328125
+13.3333333333333,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,13.3333333333333
+13.4390243902439,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,13.4390243902439
+13.4912280701754,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,13.4912280701754
+13.5263157894737,"Yes",19,49779,"Urban","Government","2022","Monterey",49779,13.5263157894737
+13.5277777777778,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,13.5277777777778
+13.5555555555556,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,13.5555555555556
+13.6315789473684,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,13.6315789473684
+13.695652173913,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,13.695652173913
+13.8333333333333,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,13.8333333333333
+13.85,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,13.85
+13.8695652173913,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,13.8695652173913
+13.8888888888889,"Yes",9,7628,"Urban","Government","2021","Sonoma",7628,13.8888888888889
+13.9,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,13.9
+13.9090909090909,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,13.9090909090909
+13.9230769230769,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,13.9230769230769
+14.0217391304348,"Yes",46,72057,"Urban","Nonprofit","2023","Los Angeles",72057,14.0217391304348
+14.047619047619,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,14.047619047619
+14.1063829787234,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,14.1063829787234
+14.1923076923077,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,14.1923076923077
+14.24,"Yes",50,35849,"Urban","Investor Owned","2022","Los Angeles",35849,14.24
+14.25,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,14.25
+14.25,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,14.25
+14.3,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,14.3
+14.3157894736842,"Yes",19,49779,"Urban","Government","2022","Monterey",49779,14.3157894736842
+14.4285714285714,"Yes",7,6834,"Urban","Investor Owned","2021","Los Angeles",6834,14.4285714285714
+14.4333333333333,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,14.4333333333333
+14.5128205128205,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,14.5128205128205
+14.5227272727273,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,14.5227272727273
+14.5238095238095,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,14.5238095238095
+14.5294117647059,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,14.5294117647059
+14.5416666666667,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,14.5416666666667
+14.6666666666667,"Yes",12,15525,"Urban","Investor Owned","2022","Riverside",15525,14.6666666666667
+14.8356164383562,"Yes",73,77616,"Urban","Government","2022","Los Angeles",77616,14.8356164383562
+14.9310344827586,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,14.9310344827586
+14.9333333333333,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,14.9333333333333
+15,"Yes",12,16133,"Urban","Investor Owned","2023","Riverside",16133,15
+15.0161290322581,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,15.0161290322581
+15.0322580645161,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,15.0322580645161
+15.046875,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,15.046875
+15.0833333333333,"Yes",12,13544,"Urban","Investor Owned","2021","Riverside",13544,15.0833333333333
+15.1,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,15.1
+15.1228070175439,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,15.1228070175439
+15.125,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,15.125
+15.25,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,15.25
+15.3333333333333,"Yes",12,13544,"Urban","Investor Owned","2021","Riverside",13544,15.3333333333333
+15.3333333333333,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,15.3333333333333
+15.375,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,15.375
+15.375,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,15.375
+15.4333333333333,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,15.4333333333333
+15.4423076923077,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,15.4423076923077
+15.5,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,15.5
+15.5172413793103,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,15.5172413793103
+15.5217391304348,"Yes",46,72057,"Urban","Nonprofit","2023","Los Angeles",72057,15.5217391304348
+15.551724137931,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,15.551724137931
+15.6521739130435,"Yes",46,72057,"Urban","Nonprofit","2023","Los Angeles",72057,15.6521739130435
+15.6923076923077,"Yes",26,37061,"Urban","Government","2021","San Joaquin",37061,15.6923076923077
+15.7142857142857,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,15.7142857142857
+15.75,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,15.75
+15.8571428571429,"Yes",7,6834,"Urban","Investor Owned","2021","Los Angeles",6834,15.8571428571429
+15.875,"Yes",8,8730,"Urban","Government","2022","Sonoma",8730,15.875
+15.9375,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,15.9375
+15.953125,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,15.953125
+16,"Yes",7,6908,"Urban","Investor Owned","2022","Los Angeles",6908,16
+16,"Yes",10,11411,"Urban","Investor Owned","2022","Orange",11411,16
+16,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,16
+16.0769230769231,"Yes",26,37061,"Urban","Government","2021","San Joaquin",37061,16.0769230769231
+16.0833333333333,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,16.0833333333333
+16.1,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,16.1
+16.1428571428571,"Yes",7,6834,"Urban","Investor Owned","2021","Los Angeles",6834,16.1428571428571
+16.2,"Yes",10,11411,"Urban","Investor Owned","2022","Orange",11411,16.2
+16.2602739726027,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,16.2602739726027
+16.2666666666667,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,16.2666666666667
+16.3448275862069,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,16.3448275862069
+16.3461538461538,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,16.3461538461538
+16.4166666666667,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,16.4166666666667
+16.4230769230769,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,16.4230769230769
+16.5,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,16.5
+16.5,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,16.5
+16.525641025641,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,16.525641025641
+16.5479452054795,"Yes",73,77616,"Urban","Government","2022","Los Angeles",77616,16.5479452054795
+16.5744680851064,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,16.5744680851064
+16.5833333333333,"Yes",12,15525,"Urban","Investor Owned","2022","Riverside",15525,16.5833333333333
+16.6842105263158,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,16.6842105263158
+16.7241379310345,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,16.7241379310345
+16.75,"Yes",4,3857,"Urban","Investor Owned","2022","Los Angeles",3857,16.75
+16.8780487804878,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,16.8780487804878
+16.9166666666667,"Yes",12,16133,"Urban","Investor Owned","2023","Riverside",16133,16.9166666666667
+16.9230769230769,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,16.9230769230769
+17,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,17
+17,"Yes",4,3857,"Urban","Investor Owned","2022","Los Angeles",3857,17
+17.0108695652174,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,17.0108695652174
+17.078125,"Yes",64,45465,"Urban","Government","2023","Orange",45465,17.078125
+17.3333333333333,"Yes",12,15525,"Urban","Investor Owned","2022","Riverside",15525,17.3333333333333
+17.375,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,17.375
+17.6,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,17.6
+17.6630434782609,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,17.6630434782609
+17.75,"Yes",4,3857,"Urban","Investor Owned","2022","Los Angeles",3857,17.75
+17.8333333333333,"Yes",12,15525,"Urban","Investor Owned","2022","Riverside",15525,17.8333333333333
+17.8947368421053,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,17.8947368421053
+17.9444444444444,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,17.9444444444444
+17.9452054794521,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,17.9452054794521
+18,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,18
+18.0625,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,18.0625
+18.0760869565217,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,18.0760869565217
+18.125,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,18.125
+18.1379310344828,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,18.1379310344828
+18.1724137931034,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,18.1724137931034
+18.25,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,18.25
+18.3333333333333,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,18.3333333333333
+18.3684210526316,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,18.3684210526316
+18.551724137931,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,18.551724137931
+18.6575342465753,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,18.6575342465753
+18.7142857142857,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,18.7142857142857
+19.1379310344828,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,19.1379310344828
+19.5,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,19.5
+19.55,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,19.55
+19.8,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,19.8
+19.8333333333333,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,19.8333333333333
+20,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,20
+20.0833333333333,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,20.0833333333333
+20.1643835616438,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,20.1643835616438
+20.1875,"Yes",16,54470,"Urban","Government","2023","Monterey",54470,20.1875
+20.25,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,20.25
+20.25,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,20.25
+20.3,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,20.3
+20.3125,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,20.3125
+20.3157894736842,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,20.3157894736842
+20.34375,"Yes",64,45465,"Urban","Government","2023","Orange",45465,20.34375
+20.3448275862069,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,20.3448275862069
+20.4285714285714,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,20.4285714285714
+20.5,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,20.5
+20.6538461538462,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,20.6538461538462
+20.6712328767123,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,20.6712328767123
+20.6829268292683,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,20.6829268292683
+20.7142857142857,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,20.7142857142857
+21.041095890411,"Yes",73,83169,"Urban","Nonprofit","2023","Fresno",83169,21.041095890411
+21.0833333333333,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,21.0833333333333
+21.1052631578947,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,21.1052631578947
+21.1153846153846,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,21.1153846153846
+21.1875,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,21.1875
+21.1904761904762,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,21.1904761904762
+21.2307692307692,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,21.2307692307692
+21.25,"Yes",4,3857,"Urban","Investor Owned","2022","Los Angeles",3857,21.25
+21.25,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,21.25
+21.3103448275862,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,21.3103448275862
+21.3863636363636,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,21.3863636363636
+21.4878048780488,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,21.4878048780488
+21.53125,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,21.53125
+21.6,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,21.6
+21.6129032258065,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,21.6129032258065
+21.625,"Yes",8,9319,"Urban","Investor Owned","2021","Los Angeles",9319,21.625
+21.6739130434783,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,21.6739130434783
+21.6818181818182,"Yes",44,37922,"Urban","Government","2021","Orange",37922,21.6818181818182
+21.6847826086957,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,21.6847826086957
+21.7934782608696,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,21.7934782608696
+21.8409090909091,"Yes",44,37922,"Urban","Government","2021","Orange",37922,21.8409090909091
+21.9148936170213,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,21.9148936170213
+22.0285714285714,"Yes",35,62297,"Urban","Investor Owned","2022","Los Angeles",62297,22.0285714285714
+22.25,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,22.25
+22.4827586206897,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,22.4827586206897
+22.6111111111111,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,22.6111111111111
+22.75,"Yes",12,13544,"Urban","Investor Owned","2021","Riverside",13544,22.75
+22.8421052631579,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,22.8421052631579
+22.8510638297872,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,22.8510638297872
+22.859375,"Yes",64,45465,"Urban","Government","2023","Orange",45465,22.859375
+23.0684931506849,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,23.0684931506849
+23.1153846153846,"Yes",26,37061,"Urban","Government","2021","San Joaquin",37061,23.1153846153846
+23.2058823529412,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,23.2058823529412
+23.3333333333333,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,23.3333333333333
+23.3333333333333,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,23.3333333333333
+23.3793103448276,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,23.3793103448276
+23.4,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,23.4
+23.4520547945205,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,23.4520547945205
+23.4571428571429,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,23.4571428571429
+23.4634146341463,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,23.4634146341463
+23.6666666666667,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,23.6666666666667
+23.7,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,23.7
+23.7954545454545,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,23.7954545454545
+23.8333333333333,"Yes",12,15525,"Urban","Investor Owned","2022","Riverside",15525,23.8333333333333
+23.8571428571429,"Yes",7,6736,"Urban","Investor Owned","2023","Los Angeles",6736,23.8571428571429
+24,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,24
+24.0833333333333,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,24.0833333333333
+24.1,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,24.1
+24.4166666666667,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,24.4166666666667
+24.4516129032258,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,24.4516129032258
+24.4827586206897,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,24.4827586206897
+24.484375,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,24.484375
+24.5384615384615,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,24.5384615384615
+24.5609756097561,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,24.5609756097561
+24.5909090909091,"Yes",44,37922,"Urban","Government","2021","Orange",37922,24.5909090909091
+24.6428571428571,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,24.6428571428571
+24.7045454545455,"Yes",44,42673,"Urban","Government","2022","Orange",42673,24.7045454545455
+24.75,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,24.75
+25.125,"Yes",8,8730,"Urban","Government","2022","Sonoma",8730,25.125
+25.3698630136986,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,25.3698630136986
+25.4090909090909,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,25.4090909090909
+25.6923076923077,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,25.6923076923077
+25.695652173913,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,25.695652173913
+25.7,"Yes",50,35849,"Urban","Investor Owned","2022","Los Angeles",35849,25.7
+25.734375,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,25.734375
+25.8245614035088,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,25.8245614035088
+25.9574468085106,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,25.9574468085106
+26,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,26
+26.1666666666667,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,26.1666666666667
+26.2857142857143,"Yes",7,6908,"Urban","Investor Owned","2022","Los Angeles",6908,26.2857142857143
+26.3,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,26.3
+26.3181818181818,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,26.3181818181818
+26.5,"Yes",16,54470,"Urban","Government","2023","Monterey",54470,26.5
+26.5625,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,26.5625
+26.5714285714286,"Yes",7,6908,"Urban","Investor Owned","2022","Los Angeles",6908,26.5714285714286
+26.6078431372549,"Yes",51,33915,"Urban","Investor Owned","2021","Los Angeles",33915,26.6078431372549
+26.6140350877193,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,26.6140350877193
+26.6666666666667,"Yes",9,7628,"Urban","Government","2021","Sonoma",7628,26.6666666666667
+26.8125,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,26.8125
+26.9166666666667,"Yes",12,16133,"Urban","Investor Owned","2023","Riverside",16133,26.9166666666667
+26.9583333333333,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,26.9583333333333
+27.0454545454545,"Yes",44,42673,"Urban","Government","2022","Orange",42673,27.0454545454545
+27.1095890410959,"Yes",73,83169,"Urban","Nonprofit","2023","Fresno",83169,27.1095890410959
+27.1805555555556,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,27.1805555555556
+27.2307692307692,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,27.2307692307692
+27.3142857142857,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,27.3142857142857
+27.3333333333333,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,27.3333333333333
+27.3846153846154,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,27.3846153846154
+27.4137931034483,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,27.4137931034483
+27.609375,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,27.609375
+27.6875,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,27.6875
+27.7282608695652,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,27.7282608695652
+27.75,"Yes",4,3857,"Urban","Investor Owned","2022","Los Angeles",3857,27.75
+27.8636363636364,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,27.8636363636364
+27.9310344827586,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,27.9310344827586
+27.9310344827586,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,27.9310344827586
+28,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,28
+28.1428571428571,"Yes",7,6834,"Urban","Investor Owned","2021","Los Angeles",6834,28.1428571428571
+28.2068965517241,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,28.2068965517241
+28.5,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,28.5
+28.7692307692308,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,28.7692307692308
+28.9166666666667,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,28.9166666666667
+29.0625,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,29.0625
+29.0689655172414,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,29.0689655172414
+29.2741935483871,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,29.2741935483871
+29.2777777777778,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,29.2777777777778
+29.3,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,29.3
+29.3170731707317,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,29.3170731707317
+29.375,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,29.375
+29.5416666666667,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,29.5416666666667
+29.5833333333333,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,29.5833333333333
+29.9041095890411,"Yes",73,77616,"Urban","Government","2022","Los Angeles",77616,29.9041095890411
+30.5142857142857,"Yes",35,62297,"Urban","Investor Owned","2022","Los Angeles",62297,30.5142857142857
+30.6764705882353,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,30.6764705882353
+30.7272727272727,"Yes",44,42673,"Urban","Government","2022","Orange",42673,30.7272727272727
+30.8297872340426,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,30.8297872340426
+30.95,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,30.95
+30.9545454545455,"Yes",44,37922,"Urban","Government","2021","Orange",37922,30.9545454545455
+31.2307692307692,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,31.2307692307692
+31.25,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,31.25
+31.3076923076923,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,31.3076923076923
+31.375,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,31.375
+31.4032258064516,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,31.4032258064516
+31.4318181818182,"Yes",44,42673,"Urban","Government","2022","Orange",42673,31.4318181818182
+31.5806451612903,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,31.5806451612903
+31.8235294117647,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,31.8235294117647
+32,"Yes",7,6908,"Urban","Investor Owned","2022","Los Angeles",6908,32
+32,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,32
+32.1153846153846,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,32.1153846153846
+32.1847826086956,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,32.1847826086956
+32.2465753424658,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,32.2465753424658
+32.3478260869565,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,32.3478260869565
+32.3548387096774,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,32.3548387096774
+32.3684210526316,"Yes",19,49779,"Urban","Government","2022","Monterey",49779,32.3684210526316
+32.4827586206897,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,32.4827586206897
+32.8974358974359,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,32.8974358974359
+32.9428571428571,"Yes",35,62297,"Urban","Investor Owned","2022","Los Angeles",62297,32.9428571428571
+33.1647058823529,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,33.1647058823529
+33.3,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,33.3
+33.3333333333333,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,33.3333333333333
+33.5769230769231,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,33.5769230769231
+33.6346153846154,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,33.6346153846154
+33.6470588235294,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,33.6470588235294
+33.9239130434783,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,33.9239130434783
+34.0625,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,34.0625
+34.0909090909091,"Yes",44,37922,"Urban","Government","2021","Orange",37922,34.0909090909091
+34.125,"Yes",8,9319,"Urban","Investor Owned","2021","Los Angeles",9319,34.125
+34.1666666666667,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,34.1666666666667
+34.1764705882353,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,34.1764705882353
+34.2307692307692,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,34.2307692307692
+34.2717391304348,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,34.2717391304348
+34.3013698630137,"Yes",73,77616,"Urban","Government","2022","Los Angeles",77616,34.3013698630137
+34.375,"Yes",16,54470,"Urban","Government","2023","Monterey",54470,34.375
+34.4565217391304,"Yes",46,72057,"Urban","Nonprofit","2023","Los Angeles",72057,34.4565217391304
+34.6,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,34.6
+34.75,"Yes",8,8730,"Urban","Government","2022","Sonoma",8730,34.75
+34.8076923076923,"Yes",26,37061,"Urban","Government","2021","San Joaquin",37061,34.8076923076923
+34.875,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,34.875
+35.0175438596491,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,35.0175438596491
+35.0941176470588,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,35.0941176470588
+35.3064516129032,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,35.3064516129032
+35.34375,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,35.34375
+35.3636363636364,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,35.3636363636364
+35.3809523809524,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,35.3809523809524
+35.4166666666667,"Yes",12,13544,"Urban","Investor Owned","2021","Riverside",13544,35.4166666666667
+35.4285714285714,"Yes",7,6834,"Urban","Investor Owned","2021","Los Angeles",6834,35.4285714285714
+35.6,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,35.6
+35.6847826086956,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,35.6847826086956
+35.9347826086956,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,35.9347826086956
+35.9655172413793,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,35.9655172413793
+35.9787234042553,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,35.9787234042553
+36.0833333333333,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,36.0833333333333
+36.1724137931034,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,36.1724137931034
+36.2978723404255,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,36.2978723404255
+36.484375,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,36.484375
+36.5428571428571,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,36.5428571428571
+36.75,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,36.75
+36.8333333333333,"Yes",12,15525,"Urban","Investor Owned","2022","Riverside",15525,36.8333333333333
+36.8333333333333,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,36.8333333333333
+36.9487179487179,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,36.9487179487179
+37,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,37
+37,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,37
+37.1428571428571,"Yes",7,6736,"Urban","Investor Owned","2023","Los Angeles",6736,37.1428571428571
+37.1590909090909,"Yes",44,37922,"Urban","Government","2021","Orange",37922,37.1590909090909
+37.2,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,37.2
+37.25,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,37.25
+37.304347826087,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,37.304347826087
+37.5909090909091,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,37.5909090909091
+37.6857142857143,"Yes",35,62297,"Urban","Investor Owned","2022","Los Angeles",62297,37.6857142857143
+37.7560975609756,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,37.7560975609756
+37.8636363636364,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,37.8636363636364
+37.875,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,37.875
+37.9285714285714,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,37.9285714285714
+37.986301369863,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,37.986301369863
+38.0425531914894,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,38.0425531914894
+38.0909090909091,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,38.0909090909091
+38.125,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,38.125
+38.35,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,38.35
+38.3714285714286,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,38.3714285714286
+38.5,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,38.5
+38.6571428571429,"Yes",35,62297,"Urban","Investor Owned","2022","Los Angeles",62297,38.6571428571429
+38.8245614035088,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,38.8245614035088
+38.8965517241379,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,38.8965517241379
+38.9,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,38.9
+38.9166666666667,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,38.9166666666667
+39.2065217391304,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,39.2065217391304
+39.2272727272727,"Yes",44,42673,"Urban","Government","2022","Orange",42673,39.2272727272727
+40,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,40
+40.0833333333333,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,40.0833333333333
+40.2,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,40.2
+40.5365853658537,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,40.5365853658537
+40.5479452054795,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,40.5479452054795
+40.6136363636364,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,40.6136363636364
+40.6666666666667,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,40.6666666666667
+40.741935483871,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,40.741935483871
+40.8888888888889,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,40.8888888888889
+41.2,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,41.2
+41.2361111111111,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,41.2361111111111
+41.3424657534247,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,41.3424657534247
+41.5614035087719,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,41.5614035087719
+41.8076923076923,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,41.8076923076923
+41.9545454545455,"Yes",44,42673,"Urban","Government","2022","Orange",42673,41.9545454545455
+41.9871794871795,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,41.9871794871795
+42.0857142857143,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,42.0857142857143
+42.2717391304348,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,42.2717391304348
+42.3142857142857,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,42.3142857142857
+42.5,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,42.5
+42.5641025641026,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,42.5641025641026
+42.6140350877193,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,42.6140350877193
+42.8125,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,42.8125
+42.8571428571429,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,42.8571428571429
+43,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,43
+43.1774193548387,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,43.1774193548387
+43.5714285714286,"Yes",7,6736,"Urban","Investor Owned","2023","Los Angeles",6736,43.5714285714286
+43.945652173913,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,43.945652173913
+44.2105263157895,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,44.2105263157895
+44.2857142857143,"Yes",7,6736,"Urban","Investor Owned","2023","Los Angeles",6736,44.2857142857143
+44.3684210526316,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,44.3684210526316
+44.4444444444444,"Yes",9,7628,"Urban","Government","2021","Sonoma",7628,44.4444444444444
+44.5957446808511,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,44.5957446808511
+44.8,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,44.8
+44.8846153846154,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,44.8846153846154
+44.8846153846154,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,44.8846153846154
+45.0526315789474,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,45.0526315789474
+45.0769230769231,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,45.0769230769231
+45.2282608695652,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,45.2282608695652
+45.25,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,45.25
+45.2553191489362,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,45.2553191489362
+45.2631578947368,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,45.2631578947368
+45.3152173913044,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,45.3152173913044
+45.3698630136986,"Yes",73,77616,"Urban","Government","2022","Los Angeles",77616,45.3698630136986
+45.4347826086956,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,45.4347826086956
+45.6140350877193,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,45.6140350877193
+45.7586206896552,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,45.7586206896552
+46.4146341463415,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,46.4146341463415
+46.421875,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,46.421875
+46.59375,"Yes",64,45465,"Urban","Government","2023","Orange",45465,46.59375
+46.6666666666667,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,46.6666666666667
+46.7428571428571,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,46.7428571428571
+46.7717391304348,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,46.7717391304348
+46.875,"Yes",8,8730,"Urban","Government","2022","Sonoma",8730,46.875
+46.875,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,46.875
+47,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,47
+47.304347826087,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,47.304347826087
+47.6,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,47.6
+47.7948717948718,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,47.7948717948718
+47.9333333333333,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,47.9333333333333
+48.0384615384615,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,48.0384615384615
+48.1,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,48.1
+48.125,"Yes",16,54470,"Urban","Government","2023","Monterey",54470,48.125
+48.1794871794872,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,48.1794871794872
+48.2,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,48.2
+48.8709677419355,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,48.8709677419355
+49.2777777777778,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,49.2777777777778
+49.6521739130435,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,49.6521739130435
+50.3225806451613,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,50.3225806451613
+50.4285714285714,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,50.4285714285714
+50.5365853658537,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,50.5365853658537
+50.5645161290323,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,50.5645161290323
+50.6666666666667,"Yes",9,7628,"Urban","Government","2021","Sonoma",7628,50.6666666666667
+50.7058823529412,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,50.7058823529412
+50.9375,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,50.9375
+51.09375,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,51.09375
+51.6,"Yes",10,11411,"Urban","Investor Owned","2022","Orange",11411,51.6
+51.6904761904762,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,51.6904761904762
+51.75,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,51.75
+51.8333333333333,"Yes",12,13544,"Urban","Investor Owned","2021","Riverside",13544,51.8333333333333
+52,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,52
+52.25,"Yes",8,8730,"Urban","Government","2022","Sonoma",8730,52.25
+52.5714285714286,"Yes",35,62297,"Urban","Investor Owned","2022","Los Angeles",62297,52.5714285714286
+52.5789473684211,"Yes",19,49779,"Urban","Government","2022","Monterey",49779,52.5789473684211
+52.6,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,52.6
+52.8205128205128,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,52.8205128205128
+53.1034482758621,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,53.1034482758621
+53.4468085106383,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,53.4468085106383
+53.45,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,53.45
+53.6190476190476,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,53.6190476190476
+53.6805555555556,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,53.6805555555556
+54.2413793103448,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,54.2413793103448
+55.1111111111111,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,55.1111111111111
+55.9268292682927,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,55.9268292682927
+56.0975609756098,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,56.0975609756098
+56.3684210526316,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,56.3684210526316
+56.5333333333333,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,56.5333333333333
+56.551724137931,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,56.551724137931
+56.8571428571429,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,56.8571428571429
+56.9333333333333,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,56.9333333333333
+56.9655172413793,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,56.9655172413793
+57.1538461538462,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,57.1538461538462
+57.2692307692308,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,57.2692307692308
+57.75,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,57.75
+58.25,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,58.25
+58.2903225806452,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,58.2903225806452
+58.3013698630137,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,58.3013698630137
+58.8767123287671,"Yes",73,77616,"Urban","Government","2022","Los Angeles",77616,58.8767123287671
+58.9615384615385,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,58.9615384615385
+59,"Yes",12,15525,"Urban","Investor Owned","2022","Riverside",15525,59
+59.3125,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,59.3125
+59.6829268292683,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,59.6829268292683
+59.8,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,59.8
+59.9166666666667,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,59.9166666666667
+59.9615384615385,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,59.9615384615385
+60.0217391304348,"Yes",46,72057,"Urban","Nonprofit","2023","Los Angeles",72057,60.0217391304348
+60.1739130434783,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,60.1739130434783
+60.5,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,60.5
+60.6027397260274,"Yes",73,77616,"Urban","Government","2022","Los Angeles",77616,60.6027397260274
+60.7808219178082,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,60.7808219178082
+60.9310344827586,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,60.9310344827586
+61,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,61
+61.0769230769231,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,61.0769230769231
+61.0821917808219,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,61.0821917808219
+61.468085106383,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,61.468085106383
+62.09375,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,62.09375
+62.1666666666667,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,62.1666666666667
+62.2,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,62.2
+62.2,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,62.2
+62.2631578947368,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,62.2631578947368
+62.375,"Yes",64,45465,"Urban","Government","2023","Orange",45465,62.375
+62.703125,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,62.703125
+62.9178082191781,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,62.9178082191781
+63.35,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,63.35
+63.4615384615385,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,63.4615384615385
+63.6896551724138,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,63.6896551724138
+64.025,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,64.025
+64.156862745098,"Yes",51,33915,"Urban","Investor Owned","2021","Los Angeles",33915,64.156862745098
+64.2666666666667,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,64.2666666666667
+64.5882352941177,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,64.5882352941177
+64.6,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,64.6
+64.8888888888889,"Yes",9,7628,"Urban","Government","2021","Sonoma",7628,64.8888888888889
+64.9655172413793,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,64.9655172413793
+65.0769230769231,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,65.0769230769231
+65.1489361702128,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,65.1489361702128
+66.1,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,66.1
+66.25,"Yes",8,8730,"Urban","Government","2022","Sonoma",8730,66.25
+66.6730769230769,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,66.6730769230769
+66.972602739726,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,66.972602739726
+67.0689655172414,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,67.0689655172414
+67.0877192982456,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,67.0877192982456
+67.2272727272727,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,67.2272727272727
+67.56,"Yes",50,35849,"Urban","Investor Owned","2022","Los Angeles",35849,67.56
+67.7142857142857,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,67.7142857142857
+67.8333333333333,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,67.8333333333333
+68.3666666666667,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,68.3666666666667
+68.7123287671233,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,68.7123287671233
+68.7307692307692,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,68.7307692307692
+69.625,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,69.625
+69.625,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,69.625
+70,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,70
+70.3571428571429,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,70.3571428571429
+70.5,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,70.5
+70.8,"Yes",10,11411,"Urban","Investor Owned","2022","Orange",11411,70.8
+70.9512195121951,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,70.9512195121951
+71.0434782608696,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,71.0434782608696
+71.2,"Yes",10,11411,"Urban","Investor Owned","2022","Orange",11411,71.2
+71.28,"Yes",50,35849,"Urban","Investor Owned","2022","Los Angeles",35849,71.28
+71.5769230769231,"Yes",26,37061,"Urban","Government","2021","San Joaquin",37061,71.5769230769231
+71.7586206896552,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,71.7586206896552
+72.125,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,72.125
+72.1764705882353,"Yes",51,33915,"Urban","Investor Owned","2021","Los Angeles",33915,72.1764705882353
+72.2456140350877,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,72.2456140350877
+72.3076923076923,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,72.3076923076923
+72.3571428571429,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,72.3571428571429
+72.4375,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,72.4375
+72.4794520547945,"Yes",73,83169,"Urban","Nonprofit","2023","Fresno",83169,72.4794520547945
+72.4931506849315,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,72.4931506849315
+73.0384615384615,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,73.0384615384615
+73.0769230769231,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,73.0769230769231
+73.2,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,73.2
+73.4375,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,73.4375
+73.5,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,73.5
+73.5322580645161,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,73.5322580645161
+73.5454545454545,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,73.5454545454545
+73.875,"Yes",8,9319,"Urban","Investor Owned","2021","Los Angeles",9319,73.875
+74.5,"Yes",16,54470,"Urban","Government","2023","Monterey",54470,74.5
+74.8571428571429,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,74.8571428571429
+74.9649122807018,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,74.9649122807018
+75.0454545454545,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,75.0454545454545
+75.1578947368421,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,75.1578947368421
+75.2,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,75.2
+75.3125,"Yes",16,54470,"Urban","Government","2023","Monterey",54470,75.3125
+75.4130434782609,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,75.4130434782609
+75.75,"Yes",12,16133,"Urban","Investor Owned","2023","Riverside",16133,75.75
+75.8846153846154,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,75.8846153846154
+76.448275862069,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,76.448275862069
+76.8275862068966,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,76.8275862068966
+76.95,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,76.95
+77.4,"Yes",10,11411,"Urban","Investor Owned","2022","Orange",11411,77.4
+78.0625,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,78.0625
+78.2926829268293,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,78.2926829268293
+78.7142857142857,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,78.7142857142857
+78.8235294117647,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,78.8235294117647
+80.0350877192982,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,80.0350877192982
+80.09375,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,80.09375
+80.6,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,80.6
+80.6849315068493,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,80.6849315068493
+80.75,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,80.75
+80.7916666666667,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,80.7916666666667
+80.8888888888889,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,80.8888888888889
+81.0217391304348,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,81.0217391304348
+81.3157894736842,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,81.3157894736842
+81.4912280701754,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,81.4912280701754
+81.5416666666667,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,81.5416666666667
+81.5490196078431,"Yes",51,33915,"Urban","Investor Owned","2021","Los Angeles",33915,81.5490196078431
+81.5909090909091,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,81.5909090909091
+82.0833333333333,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,82.0833333333333
+82.6538461538462,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,82.6538461538462
+82.6875,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,82.6875
+82.9375,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,82.9375
+83.2954545454545,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,83.2954545454545
+84,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,84
+84.9615384615385,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,84.9615384615385
+84.9655172413793,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,84.9655172413793
+85.0833333333333,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,85.0833333333333
+85.4235294117647,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,85.4235294117647
+85.625,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,85.625
+86.0625,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,86.0625
+86.125,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,86.125
+86.3103448275862,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,86.3103448275862
+86.4246575342466,"Yes",73,83169,"Urban","Nonprofit","2023","Fresno",83169,86.4246575342466
+86.5,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,86.5
+87.2380952380952,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,87.2380952380952
+87.56,"Yes",50,35849,"Urban","Investor Owned","2022","Los Angeles",35849,87.56
+87.7,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,87.7
+87.9583333333333,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,87.9583333333333
+88.5964912280702,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,88.5964912280702
+90.75,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,90.75
+90.9375,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,90.9375
+91.1034482758621,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,91.1034482758621
+91.2857142857143,"Yes",7,6908,"Urban","Investor Owned","2022","Los Angeles",6908,91.2857142857143
+91.5,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,91.5
+91.5428571428571,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,91.5428571428571
+92.3586956521739,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,92.3586956521739
+92.4657534246575,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,92.4657534246575
+92.6666666666667,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,92.6666666666667
+93.3287671232877,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,93.3287671232877
+93.7808219178082,"Yes",73,83169,"Urban","Nonprofit","2023","Fresno",83169,93.7808219178082
+94.0769230769231,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,94.0769230769231
+94.1527777777778,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,94.1527777777778
+94.3,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,94.3
+94.375,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,94.375
+94.5,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,94.5
+94.5833333333333,"Yes",12,16133,"Urban","Investor Owned","2023","Riverside",16133,94.5833333333333
+94.6666666666667,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,94.6666666666667
+94.8275862068966,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,94.8275862068966
+95.25,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,95.25
+95.421875,"Yes",64,45465,"Urban","Government","2023","Orange",45465,95.421875
+95.4358974358974,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,95.4358974358974
+95.4931506849315,"Yes",73,83169,"Urban","Nonprofit","2023","Fresno",83169,95.4931506849315
+95.6551724137931,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,95.6551724137931
+96,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,96
+96.5,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,96.5
+96.9178082191781,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,96.9178082191781
+97.75,"Yes",4,3857,"Urban","Investor Owned","2022","Los Angeles",3857,97.75
+98.0967741935484,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,98.0967741935484
+98.2,"Yes",10,11411,"Urban","Investor Owned","2022","Orange",11411,98.2
+98.2602739726027,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,98.2602739726027
+99.8333333333333,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,99.8333333333333
+100.25,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,100.25
+100.8,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,100.8
+101.013888888889,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,101.013888888889
+101.75,"Yes",12,13544,"Urban","Investor Owned","2021","Riverside",13544,101.75
+102.083333333333,"Yes",12,13544,"Urban","Investor Owned","2021","Riverside",13544,102.083333333333
+103.025641025641,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,103.025641025641
+103.136363636364,"Yes",44,42673,"Urban","Government","2022","Orange",42673,103.136363636364
+103.615384615385,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,103.615384615385
+103.72,"Yes",50,35849,"Urban","Investor Owned","2022","Los Angeles",35849,103.72
+104,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,104
+104.375,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,104.375
+104.5,"Yes",4,3857,"Urban","Investor Owned","2022","Los Angeles",3857,104.5
+104.684931506849,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,104.684931506849
+104.8,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,104.8
+105.125,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,105.125
+105.5,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,105.5
+107.088235294118,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,107.088235294118
+107.404255319149,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,107.404255319149
+107.454545454545,"Yes",44,37922,"Urban","Government","2021","Orange",37922,107.454545454545
+107.7,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,107.7
+108.068181818182,"Yes",44,42673,"Urban","Government","2022","Orange",42673,108.068181818182
+108.583333333333,"Yes",12,15525,"Urban","Investor Owned","2022","Riverside",15525,108.583333333333
+108.730769230769,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,108.730769230769
+108.795454545455,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,108.795454545455
+109.285714285714,"Yes",7,6834,"Urban","Investor Owned","2021","Los Angeles",6834,109.285714285714
+109.375,"Yes",8,9319,"Urban","Investor Owned","2021","Los Angeles",9319,109.375
+109.941176470588,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,109.941176470588
+111.397260273973,"Yes",73,77616,"Urban","Government","2022","Los Angeles",77616,111.397260273973
+111.602739726027,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,111.602739726027
+111.909090909091,"Yes",44,37922,"Urban","Government","2021","Orange",37922,111.909090909091
+112.272727272727,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,112.272727272727
+112.384615384615,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,112.384615384615
+113.714285714286,"Yes",7,6736,"Urban","Investor Owned","2023","Los Angeles",6736,113.714285714286
+113.789473684211,"Yes",19,49779,"Urban","Government","2022","Monterey",49779,113.789473684211
+113.835616438356,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,113.835616438356
+114.25,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,114.25
+114.739726027397,"Yes",73,77616,"Urban","Government","2022","Los Angeles",77616,114.739726027397
+116,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,116
+116.571428571429,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,116.571428571429
+116.8125,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,116.8125
+116.9,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,116.9
+117.4,"Yes",35,62297,"Urban","Investor Owned","2022","Los Angeles",62297,117.4
+117.809523809524,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,117.809523809524
+118.862068965517,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,118.862068965517
+119.4,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,119.4
+119.7,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,119.7
+120.019607843137,"Yes",51,33915,"Urban","Investor Owned","2021","Los Angeles",33915,120.019607843137
+122.272727272727,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,122.272727272727
+122.531914893617,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,122.531914893617
+123,"Yes",12,16133,"Urban","Investor Owned","2023","Riverside",16133,123
+123.620689655172,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,123.620689655172
+123.857142857143,"Yes",7,6736,"Urban","Investor Owned","2023","Los Angeles",6736,123.857142857143
+123.9,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,123.9
+124.041666666667,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,124.041666666667
+124.708333333333,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,124.708333333333
+125.140350877193,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,125.140350877193
+125.371428571429,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,125.371428571429
+125.421052631579,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,125.421052631579
+125.833333333333,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,125.833333333333
+126.095238095238,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,126.095238095238
+126.835616438356,"Yes",73,83169,"Urban","Nonprofit","2023","Fresno",83169,126.835616438356
+127.263157894737,"Yes",19,49779,"Urban","Government","2022","Monterey",49779,127.263157894737
+127.333333333333,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,127.333333333333
+127.65625,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,127.65625
+127.863636363636,"Yes",44,37922,"Urban","Government","2021","Orange",37922,127.863636363636
+128.05,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,128.05
+128.191780821918,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,128.191780821918
+128.829268292683,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,128.829268292683
+128.916666666667,"Yes",12,16133,"Urban","Investor Owned","2023","Riverside",16133,128.916666666667
+129.356164383562,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,129.356164383562
+130,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,130
+130.285714285714,"Yes",7,6908,"Urban","Investor Owned","2022","Los Angeles",6908,130.285714285714
+130.576923076923,"Yes",26,37061,"Urban","Government","2021","San Joaquin",37061,130.576923076923
+130.916666666667,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,130.916666666667
+131.709677419355,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,131.709677419355
+131.942857142857,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,131.942857142857
+134.25,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,134.25
+134.75,"Yes",12,15525,"Urban","Investor Owned","2022","Riverside",15525,134.75
+134.75,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,134.75
+135.25,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,135.25
+135.52380952381,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,135.52380952381
+135.75,"Yes",8,9319,"Urban","Investor Owned","2021","Los Angeles",9319,135.75
+136.25,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,136.25
+137.245614035088,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,137.245614035088
+137.463414634146,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,137.463414634146
+138.958333333333,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,138.958333333333
+139.041666666667,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,139.041666666667
+139.125,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,139.125
+139.972602739726,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,139.972602739726
+140.862068965517,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,140.862068965517
+141.8125,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,141.8125
+142.054347826087,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,142.054347826087
+142.097826086957,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,142.097826086957
+143.133333333333,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,143.133333333333
+143.9,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,143.9
+144.295454545455,"Yes",44,42673,"Urban","Government","2022","Orange",42673,144.295454545455
+144.739726027397,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,144.739726027397
+144.769230769231,"Yes",26,37061,"Urban","Government","2021","San Joaquin",37061,144.769230769231
+144.852941176471,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,144.852941176471
+144.9,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,144.9
+145.916666666667,"Yes",12,13544,"Urban","Investor Owned","2021","Riverside",13544,145.916666666667
+146.045454545455,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,146.045454545455
+146.05,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,146.05
+146.137931034483,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,146.137931034483
+146.25,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,146.25
+146.958333333333,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,146.958333333333
+147.192307692308,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,147.192307692308
+147.239130434783,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,147.239130434783
+148.625,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,148.625
+149.190476190476,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,149.190476190476
+149.494117647059,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,149.494117647059
+149.5,"Yes",4,3857,"Urban","Investor Owned","2022","Los Angeles",3857,149.5
+149.730769230769,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,149.730769230769
+150.633333333333,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,150.633333333333
+150.9,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,150.9
+151.288461538462,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,151.288461538462
+151.685714285714,"Yes",35,62297,"Urban","Investor Owned","2022","Los Angeles",62297,151.685714285714
+153,"Yes",7,6834,"Urban","Investor Owned","2021","Los Angeles",6834,153
+153.083333333333,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,153.083333333333
+153.625,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,153.625
+154.41095890411,"Yes",73,77616,"Urban","Government","2022","Los Angeles",77616,154.41095890411
+155.375,"Yes",8,9319,"Urban","Investor Owned","2021","Los Angeles",9319,155.375
+156.318181818182,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,156.318181818182
+156.625,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,156.625
+157.137931034483,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,157.137931034483
+157.890625,"Yes",64,45465,"Urban","Government","2023","Orange",45465,157.890625
+158,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,158
+158.566666666667,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,158.566666666667
+158.625,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,158.625
+158.766666666667,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,158.766666666667
+159.625,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,159.625
+161.127659574468,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,161.127659574468
+162.846153846154,"Yes",26,37061,"Urban","Government","2021","San Joaquin",37061,162.846153846154
+163.359375,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,163.359375
+163.546875,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,163.546875
+163.549019607843,"Yes",51,33915,"Urban","Investor Owned","2021","Los Angeles",33915,163.549019607843
+165.722222222222,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,165.722222222222
+167.659574468085,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,167.659574468085
+167.9375,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,167.9375
+169.238095238095,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,169.238095238095
+170.793103448276,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,170.793103448276
+171.416666666667,"Yes",12,15525,"Urban","Investor Owned","2022","Riverside",15525,171.416666666667
+171.416666666667,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,171.416666666667
+173.875,"Yes",8,9319,"Urban","Investor Owned","2021","Los Angeles",9319,173.875
+174.838709677419,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,174.838709677419
+176.75,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,176.75
+176.896551724138,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,176.896551724138
+178.068181818182,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,178.068181818182
+178.105263157895,"Yes",19,49779,"Urban","Government","2022","Monterey",49779,178.105263157895
+178.34,"Yes",50,35849,"Urban","Investor Owned","2022","Los Angeles",35849,178.34
+179.083333333333,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,179.083333333333
+179.75,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,179.75
+181.314285714286,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,181.314285714286
+181.708333333333,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,181.708333333333
+182.551282051282,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,182.551282051282
+182.931506849315,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,182.931506849315
+183.4,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,183.4
+184.222222222222,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,184.222222222222
+184.619047619048,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,184.619047619048
+184.7,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,184.7
+184.904761904762,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,184.904761904762
+185.576923076923,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,185.576923076923
+185.625,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,185.625
+186.5,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,186.5
+186.833333333333,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,186.833333333333
+187.208333333333,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,187.208333333333
+189.5,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,189.5
+192.5625,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,192.5625
+194.083333333333,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,194.083333333333
+195.3,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,195.3
+195.333333333333,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,195.333333333333
+195.75,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,195.75
+199.02380952381,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,199.02380952381
+202.111111111111,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,202.111111111111
+202.75,"Yes",12,15525,"Urban","Investor Owned","2022","Riverside",15525,202.75
+203.142857142857,"Yes",35,62297,"Urban","Investor Owned","2022","Los Angeles",62297,203.142857142857
+204.416666666667,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,204.416666666667
+205.8125,"Yes",16,54470,"Urban","Government","2023","Monterey",54470,205.8125
+206.493150684931,"Yes",73,83169,"Urban","Nonprofit","2023","Fresno",83169,206.493150684931
+207.125,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,207.125
+207.25,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,207.25
+207.4375,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,207.4375
+207.6,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,207.6
+208.7,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,208.7
+210.301369863014,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,210.301369863014
+210.820512820513,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,210.820512820513
+211.5,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,211.5
+212.65,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,212.65
+215,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,215
+216.052631578947,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,216.052631578947
+217.95,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,217.95
+218.241379310345,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,218.241379310345
+218.5,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,218.5
+218.666666666667,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,218.666666666667
+221.333333333333,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,221.333333333333
+221.542857142857,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,221.542857142857
+221.555555555556,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,221.555555555556
+224.347826086957,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,224.347826086957
+224.520547945205,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,224.520547945205
+226.25,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,226.25
+226.6,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,226.6
+227.363636363636,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,227.363636363636
+227.380952380952,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,227.380952380952
+227.47619047619,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,227.47619047619
+227.613636363636,"Yes",44,37922,"Urban","Government","2021","Orange",37922,227.613636363636
+227.961538461538,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,227.961538461538
+232.166666666667,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,232.166666666667
+232.205882352941,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,232.205882352941
+233.25,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,233.25
+234,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,234
+234.195652173913,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,234.195652173913
+234.689655172414,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,234.689655172414
+234.902173913043,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,234.902173913043
+235.206896551724,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,235.206896551724
+237.96875,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,237.96875
+238.083333333333,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,238.083333333333
+238.75,"Yes",4,3857,"Urban","Investor Owned","2022","Los Angeles",3857,238.75
+239.083333333333,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,239.083333333333
+240.914893617021,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,240.914893617021
+242.25,"Yes",16,54470,"Urban","Government","2023","Monterey",54470,242.25
+242.846153846154,"Yes",26,37061,"Urban","Government","2021","San Joaquin",37061,242.846153846154
+243.161290322581,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,243.161290322581
+243.204545454545,"Yes",44,42673,"Urban","Government","2022","Orange",42673,243.204545454545
+244.5,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,244.5
+244.609375,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,244.609375
+245.291666666667,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,245.291666666667
+246,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,246
+247.916666666667,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,247.916666666667
+249.121951219512,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,249.121951219512
+250.057692307692,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,250.057692307692
+252.578947368421,"Yes",19,49779,"Urban","Government","2022","Monterey",49779,252.578947368421
+258.4,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,258.4
+258.977272727273,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,258.977272727273
+259.439024390244,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,259.439024390244
+260.375,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,260.375
+262.021276595745,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,262.021276595745
+264.3,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,264.3
+265.083333333333,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,265.083333333333
+268.172413793103,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,268.172413793103
+268.583333333333,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,268.583333333333
+268.75,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,268.75
+269.655172413793,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,269.655172413793
+270.5,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,270.5
+270.615384615385,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,270.615384615385
+273.368421052632,"Yes",19,49779,"Urban","Government","2022","Monterey",49779,273.368421052632
+277.6875,"Yes",16,54470,"Urban","Government","2023","Monterey",54470,277.6875
+280.466666666667,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,280.466666666667
+281.666666666667,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,281.666666666667
+282.375,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,282.375
+283.125,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,283.125
+285,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,285
+290.653846153846,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,290.653846153846
+292.333333333333,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,292.333333333333
+294.4,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,294.4
+296.428571428571,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,296.428571428571
+297.789473684211,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,297.789473684211
+301.590909090909,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,301.590909090909
+303.225806451613,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,303.225806451613
+304,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,304
+306.166666666667,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,306.166666666667
+306.3125,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,306.3125
+307.368421052632,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,307.368421052632
+309.125,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,309.125
+309.625,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,309.625
+312.103448275862,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,312.103448275862
+313,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,313
+315.410256410256,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,315.410256410256
+316.333333333333,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,316.333333333333
+322.916666666667,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,322.916666666667
+326.4,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,326.4
+329.75,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,329.75
+332.457142857143,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,332.457142857143
+332.884615384615,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,332.884615384615
+334.48275862069,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,334.48275862069
+343.583333333333,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,343.583333333333
+347.794117647059,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,347.794117647059
+358.942857142857,"Yes",35,62297,"Urban","Investor Owned","2022","Los Angeles",62297,358.942857142857
+365.428571428571,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,365.428571428571
+367.083333333333,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,367.083333333333
+371.275862068966,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,371.275862068966
+374.5,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,374.5
+377.9,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,377.9
+380.75,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,380.75
+387.8,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,387.8
+388.625,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,388.625
+398.6,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,398.6
+400.222222222222,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,400.222222222222
+410,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,410
+413.75,"Yes",16,54470,"Urban","Government","2023","Monterey",54470,413.75
+420.333333333333,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,420.333333333333
+422.965517241379,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,422.965517241379
+427.233333333333,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,427.233333333333
+433.633333333333,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,433.633333333333
+445.842105263158,"Yes",19,49779,"Urban","Government","2022","Monterey",49779,445.842105263158
+465.685714285714,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,465.685714285714
+481.413793103448,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,481.413793103448
+483.40625,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,483.40625
+486.862068965517,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,486.862068965517
+493.862068965517,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,493.862068965517
+495.894736842105,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,495.894736842105
+506.846153846154,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,506.846153846154
+507.586206896552,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,507.586206896552
+519.730769230769,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,519.730769230769
+523.75,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,523.75
+547.48275862069,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,547.48275862069
+557.448275862069,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,557.448275862069
+561.9375,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,561.9375
+585.8,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,585.8
+603,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,603
+604.6,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,604.6
+650.223529411765,"Yes",85,55269,"Urban","Government","2021","Tulare",55269,650.223529411765
+661,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,661
+665,"Yes",51,33915,"Urban","Investor Owned","2021","Los Angeles",33915,665
+704.25,"Yes",16,54470,"Urban","Government","2023","Monterey",54470,704.25
+710.390625,"Yes",64,45465,"Urban","Government","2023","Orange",45465,710.390625
+716.98,"Yes",50,35849,"Urban","Investor Owned","2022","Los Angeles",35849,716.98
+782.103448275862,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,782.103448275862
+823.769230769231,"Yes",78,64254,"Urban","Government","2022","Tulare",64254,823.769230769231
+847.555555555556,"Yes",9,7628,"Urban","Government","2021","Sonoma",7628,847.555555555556
+852.15,"Yes",20,17043,"Urban","Investor Owned","2023","San Diego",17043,852.15
+854.5,"Yes",20,17090,"Urban","Investor Owned","2021","San Diego",17090,854.5
+861.863636363636,"Yes",44,37922,"Urban","Government","2021","Orange",37922,861.863636363636
+887.3,"Yes",20,17746,"Urban","Investor Owned","2022","San Diego",17746,887.3
+901.275862068965,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,901.275862068965
+901.780821917808,"Yes",73,65830,"Urban","Government","2021","Los Angeles",65830,901.780821917808
+911.5,"Yes",4,3646,"Urban","Investor Owned","2023","Los Angeles",3646,911.5
+918.210526315789,"Yes",57,52338,"Urban","Nonprofit","2021","Los Angeles",52338,918.210526315789
+920.875,"Yes",24,22101,"Urban","Investor Owned","2021","Orange",22101,920.875
+924.315789473684,"Yes",57,52686,"Urban","Nonprofit","2023","Los Angeles",52686,924.315789473684
+950.619047619048,"Yes",42,39926,"Urban","Investor Owned","2021","Los Angeles",39926,950.619047619048
+962.285714285714,"Yes",7,6736,"Urban","Investor Owned","2023","Los Angeles",6736,962.285714285714
+964.25,"Yes",4,3857,"Urban","Investor Owned","2022","Los Angeles",3857,964.25
+969.840909090909,"Yes",44,42673,"Urban","Government","2022","Orange",42673,969.840909090909
+976.285714285714,"Yes",7,6834,"Urban","Investor Owned","2021","Los Angeles",6834,976.285714285714
+980.385964912281,"Yes",57,55882,"Urban","Nonprofit","2022","Los Angeles",55882,980.385964912281
+982.301369863014,"Yes",73,71708,"Urban","Government","2023","Tulare",71708,982.301369863014
+986.857142857143,"Yes",7,6908,"Urban","Investor Owned","2022","Los Angeles",6908,986.857142857143
+1018.93150684932,"Yes",73,74382,"Urban","Nonprofit","2021","Fresno",74382,1018.93150684932
+1052.41666666667,"Yes",24,25258,"Urban","Investor Owned","2022","Orange",25258,1052.41666666667
+1054.33333333333,"Yes",24,25304,"Urban","Investor Owned","2023","Orange",25304,1054.33333333333
+1063.23287671233,"Yes",73,77616,"Urban","Government","2022","Los Angeles",77616,1063.23287671233
+1089.73611111111,"Yes",72,78461,"Urban","Government","2023","Los Angeles",78461,1089.73611111111
+1091.25,"Yes",8,8730,"Urban","Government","2022","Sonoma",8730,1091.25
+1091.45161290323,"Yes",62,67670,"Urban","Investor Owned","2021","San Joaquin",67670,1091.45161290323
+1114.5,"Yes",8,8916,"Urban","Government","2023","Sonoma",8916,1114.5
+1128.66666666667,"Yes",12,13544,"Urban","Investor Owned","2021","Riverside",13544,1128.66666666667
+1139.30136986301,"Yes",73,83169,"Urban","Nonprofit","2023","Fresno",83169,1139.30136986301
+1141.1,"Yes",10,11411,"Urban","Investor Owned","2022","Orange",11411,1141.1
+1145.75,"Yes",64,73328,"Urban","Investor Owned","2021","Riverside",73328,1145.75
+1151.5,"Yes",42,48363,"Urban","Investor Owned","2022","Los Angeles",48363,1151.5
+1153.69230769231,"Yes",52,59992,"Urban","Nonprofit","2022","Los Angeles",59992,1153.69230769231
+1161.84931506849,"Yes",73,84815,"Urban","Nonprofit","2022","Fresno",84815,1161.84931506849
+1162.36585365854,"Yes",41,47657,"Urban","Nonprofit","2021","Santa Barbara",47657,1162.36585365854
+1164.875,"Yes",8,9319,"Urban","Investor Owned","2021","Los Angeles",9319,1164.875
+1197.15,"Yes",20,23943,"Urban","Investor Owned","2021","Los Angeles",23943,1197.15
+1209.39024390244,"Yes",41,49585,"Urban","Nonprofit","2022","Santa Barbara",49585,1209.39024390244
+1232.8085106383,"Yes",47,57942,"Urban","Government","2022","San Bernardino",57942,1232.8085106383
+1293.75,"Yes",12,15525,"Urban","Investor Owned","2022","Riverside",15525,1293.75
+1300,"Yes",8,10400,"Urban","Investor Owned","2022","Los Angeles",10400,1300
+1304.825,"Yes",40,52193,"Urban","Investor Owned","2023","Los Angeles",52193,1304.825
+1336.1935483871,"Yes",62,82844,"Urban","Investor Owned","2023","San Joaquin",82844,1336.1935483871
+1338.47619047619,"Yes",21,28108,"Urban","Nonprofit","2021","San Joaquin",28108,1338.47619047619
+1344.41666666667,"Yes",12,16133,"Urban","Investor Owned","2023","Riverside",16133,1344.41666666667
+1345.58620689655,"Yes",29,39022,"Urban","Investor Owned","2022","Riverside",39022,1345.58620689655
+1364.765625,"Yes",64,87345,"Urban","Investor Owned","2023","Riverside",87345,1364.765625
+1380.02127659574,"Yes",47,64861,"Urban","Nonprofit","2023","Los Angeles",64861,1380.02127659574
+1408.79310344828,"Yes",29,40855,"Urban","Investor Owned","2023","Riverside",40855,1408.79310344828
+1425.42307692308,"Yes",26,37061,"Urban","Government","2021","San Joaquin",37061,1425.42307692308
+1454.08571428571,"Yes",35,50893,"Urban","Investor Owned","2021","Los Angeles",50893,1454.08571428571
+1464.54545454545,"Yes",22,32220,"Urban","Investor Owned","2021","San Bernardino",32220,1464.54545454545
+1496.60869565217,"Yes",46,68844,"Urban","Nonprofit","2022","Los Angeles",68844,1496.60869565217
+1501.21739130435,"Yes",92,138112,"Urban","Nonprofit","2021","San Bernardino",138112,1501.21739130435
+1507.41666666667,"Yes",12,18089,"Urban","Investor Owned","2021","Orange",18089,1507.41666666667
+1534.46739130435,"Yes",92,141171,"Urban","Nonprofit","2022","San Bernardino",141171,1534.46739130435
+1552.1875,"Yes",16,24835,"Urban","Nonprofit","2021","Santa Cruz",24835,1552.1875
+1566.45652173913,"Yes",46,72057,"Urban","Nonprofit","2023","Los Angeles",72057,1566.45652173913
+1595.64130434783,"Yes",92,146799,"Urban","Nonprofit","2023","San Bernardino",146799,1595.64130434783
+1650.58333333333,"Yes",12,19807,"Urban","Investor Owned","2022","Orange",19807,1650.58333333333
+1652,"Yes",12,19824,"Urban","Investor Owned","2023","Orange",19824,1652
+1671,"Yes",26,43446,"Urban","Government","2022","San Joaquin",43446,1671
+1723.55555555556,"Yes",36,62048,"Urban","Nonprofit","2021","Los Angeles",62048,1723.55555555556
+1778.30769230769,"Yes",39,69354,"Urban","Nonprofit","2023","Los Angeles",69354,1778.30769230769
+1779.91428571429,"Yes",35,62297,"Urban","Investor Owned","2022","Los Angeles",62297,1779.91428571429
+1781.45833333333,"Yes",24,42755,"Urban","Government","2023","San Joaquin",42755,1781.45833333333
+1790.47619047619,"Yes",21,37600,"Urban","Investor Owned","2023","San Bernardino",37600,1790.47619047619
+1817.44444444444,"Yes",9,16357,"Urban","Investor Owned","2021","Los Angeles",16357,1817.44444444444
+1868,"Yes",16,29888,"Urban","Investor Owned","2022","San Bernardino",29888,1868
+1962.41379310345,"Yes",29,56910,"Urban","Nonprofit","2021","Los Angeles",56910,1962.41379310345
+1980.75,"Yes",16,31692,"Urban","Investor Owned","2023","San Bernardino",31692,1980.75
+2006.73076923077,"Yes",26,52175,"Urban","Nonprofit","2021","Merced",52175,2006.73076923077
+2032.94444444444,"Yes",18,36593,"Urban","Investor Owned","2022","San Bernardino",36593,2032.94444444444
+2079.73333333333,"Yes",30,62392,"Urban","Nonprofit","2021","Los Angeles",62392,2079.73333333333
+2093.81818181818,"Yes",44,92128,"Urban","Nonprofit","2022","Kings",92128,2093.81818181818
+2145.13636363636,"Yes",44,94386,"Urban","Nonprofit","2023","Kings",94386,2145.13636363636
+2217.11538461538,"Yes",26,57645,"Urban","Nonprofit","2022","Merced",57645,2217.11538461538
+2285.77142857143,"Yes",35,80002,"Urban","Investor Owned","2023","Los Angeles",80002,2285.77142857143
+2334.66666666667,"Yes",30,70040,"Urban","Nonprofit","2022","Los Angeles",70040,2334.66666666667
+2365.94117647059,"Yes",34,80442,"Urban","Nonprofit","2021","Kings",80442,2365.94117647059
+2406.26923076923,"Yes",26,62563,"Urban","Nonprofit","2023","Merced",62563,2406.26923076923
+2416.16666666667,"Yes",12,28994,"Urban","Nonprofit","2022","Santa Cruz",28994,2416.16666666667
+2449.46875,"Yes",32,78383,"Urban","Nonprofit","2023","Los Angeles",78383,2449.46875
+2469,"Yes",29,71601,"Urban","Nonprofit","2022","Los Angeles",71601,2469
+2540.16666666667,"Yes",12,30482,"Urban","Nonprofit","2023","Santa Cruz",30482,2540.16666666667
+2591.125,"Yes",16,41458,"Urban","Government","2021","Monterey",41458,2591.125
+2619.94736842105,"Yes",19,49779,"Urban","Government","2022","Monterey",49779,2619.94736842105
+2668.16666666667,"Yes",12,32018,"Urban","Investor Owned","2023","Los Angeles",32018,2668.16666666667
+2721.6,"Yes",10,27216,"Urban","Investor Owned","2021","Los Angeles",27216,2721.6
+2804,"Yes",19,53276,"Urban","Government","2023","Monterey",53276,2804
+2847.5,"Yes",10,28475,"Urban","Nonprofit","2022","Kern",28475,2847.5
+2849.5,"Yes",10,28495,"Urban","Nonprofit","2023","Kern",28495,2849.5
+2949.7,"Yes",10,29497,"Urban","Investor Owned","2022","Los Angeles",29497,2949.7
+3384.8125,"Yes",16,54157,"Urban","Government","2022","Monterey",54157,3384.8125
+3404.375,"Yes",16,54470,"Urban","Government","2023","Monterey",54470,3404.375
+3430.79310344828,"Yes",29,99493,"Urban","Nonprofit","2022","Los Angeles",99493,3430.79310344828
+3766.10344827586,"Yes",29,109217,"Urban","Nonprofit","2023","Los Angeles",109217,3766.10344827586
+NA,"Yes",NA,20914,"Urban","Investor Owned","2022","Los Angeles",20914,NA
