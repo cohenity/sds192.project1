@@ -42,7 +42,7 @@ ggplot(Urban_Shortage_Areas, aes(x = EDStations,
        title = "Average Emergency Department Visitors per Station in California Urban Areas with Restricted Access to 
        Primary Care by Hospital Ownership",
        caption = "This plot shows that nonprofit, government, and investor owned hospitals all have quantities of emergency
-       department stations that are relatively compatible with their number of visitors per facility. Investory owned hospitals
+       department stations that are relatively compatible with their number of visitors per facility. Nonprofit hospitals
        have the lowest capacity to accomodate large numbers of patients while government owned hospitals have the highest.") +
   theme(plot.caption = element_text(size = 8))
 ```
